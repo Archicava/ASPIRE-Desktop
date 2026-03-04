@@ -1,7 +1,7 @@
 {
   "name": "aspire-desktop",
   "private": true,
-  "version": "0.1.13",
+  "version": "0.1.14",
   "description": "ASPIRE desktop app built with Electron + React + TypeScript",
   "author": "Archicava",
   "license": "MIT",
@@ -48,6 +48,20 @@
       "dist/**",
       "dist-electron/**",
       "package.json"
+    ],
+    "extraResources": [
+      {
+        "from": "img/AspireIcon.ico",
+        "to": "icons/AspireIcon.ico"
+      },
+      {
+        "from": "img/AspireIcon.icns",
+        "to": "icons/AspireIcon.icns"
+      },
+      {
+        "from": "img/AspireIcon.png",
+        "to": "icons/AspireIcon.png"
+      }
     ],
     "asar": true,
     "mac": {

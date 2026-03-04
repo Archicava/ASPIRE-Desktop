@@ -5,6 +5,7 @@ import { fileURLToPath } from 'node:url';
 
 const __dirname = path.dirname(fileURLToPath(import.meta.url));
 const isDev = !app.isPackaged;
+const appId = 'com.aspire.desktop';
 const defaultWebAppUrl = 'https://aspire-lab.archicava.com';
 const webAppBaseUrl = resolveWebAppBaseUrl();
 const appIconPath = resolveAppIconPath();
@@ -83,13 +84,31 @@ function resolveWebAppBaseUrl(): string {
 }
 
 function resolveAppIconPath(): string | undefined {
-  const candidates = [
-    path.join(process.cwd(), 'img', 'AspireIcon.png'),
-    path.join(__dirname, '../img/AspireIcon.png'),
-    path.join(__dirname, '../../img/AspireIcon.png')
+  const iconFileNames =
+    process.platform === 'win32'
+      ? ['AspireIcon.ico', 'AspireIcon.png']
+      : process.platform === 'darwin'
+        ? ['AspireIcon.icns', 'AspireIcon.png']
+        : ['AspireIcon.png', 'AspireIcon.ico'];
+
+  const baseDirs = [
+    path.join(process.resourcesPath, 'icons'),
+    path.join(process.resourcesPath, 'img'),
+    path.join(process.cwd(), 'img'),
+    path.join(__dirname, '../img'),
+    path.join(__dirname, '../../img')
   ];
 
-  return candidates.find((candidate) => existsSync(candidate));
+  for (const baseDir of baseDirs) {
+    for (const fileName of iconFileNames) {
+      const candidate = path.join(baseDir, fileName);
+      if (existsSync(candidate)) {
+        return candidate;
+      }
+    }
+  }
+
+  return undefined;
 }
 
 function getSetCookieHeaders(response: Response): string[] {
@@ -217,6 +236,7 @@ ipcMain.handle('aspire-api:base-url', () => webAppBaseUrl);
 
 app.whenReady().then(() => {
   app.setName('Aspire Lab');
+  app.setAppUserModelId(appId);
 
   if (process.platform === 'darwin' && app.dock && appIconPath) {
     app.dock.setIcon(appIconPath);
