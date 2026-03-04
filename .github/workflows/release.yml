@@ -17,10 +17,8 @@ jobs:
         include:
           - os: macos-latest
             build_args: --mac dmg zip
-            artifact_glob: "release/*.dmg,release/*.zip,release/*.blockmap"
           - os: windows-latest
             build_args: --win nsis
-            artifact_glob: "release/*.exe,release/*.blockmap"
     runs-on: ${{ matrix.os }}
 
     steps:
@@ -41,7 +39,9 @@ jobs:
         env:
           # Build unsigned artifacts in CI unless signing credentials are configured.
           CSC_IDENTITY_AUTO_DISCOVERY: "false"
-        run: npx electron-builder ${{ matrix.build_args }}
+        run: |
+          npm run build
+          npx electron-builder ${{ matrix.build_args }}
 
       - name: Upload workflow artifacts
         uses: actions/upload-artifact@v4
