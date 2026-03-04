@@ -1,0 +1,4956 @@
+[
+  {
+    "caseId": "ASD-001",
+    "gender": "Female",
+    "pregnancyType": "Natural",
+    "plurality": "Single",
+    "pregnancyEvolution": "Normal",
+    "languageLevel": "Delayed",
+    "eegStatus": "Normal",
+    "mriStatus": "Normal",
+    "diagnosisAgeMonths": 23,
+    "delays": [
+      "Global"
+    ],
+    "adosScore": null,
+    "adirScore": 45
+  },
+  {
+    "caseId": "ASD-002",
+    "gender": "Male",
+    "pregnancyType": "Natural",
+    "plurality": "Single",
+    "pregnancyEvolution": "Normal",
+    "languageLevel": "Delayed",
+    "eegStatus": "Normal",
+    "mriStatus": "Unknown",
+    "diagnosisAgeMonths": 46,
+    "delays": [
+      "Global"
+    ],
+    "adosScore": null,
+    "adirScore": 30
+  },
+  {
+    "caseId": "ASD-003",
+    "gender": "Male",
+    "pregnancyType": "Natural",
+    "plurality": "Single",
+    "pregnancyEvolution": "Abnormal",
+    "languageLevel": "Delayed",
+    "eegStatus": "Normal",
+    "mriStatus": "Unknown",
+    "diagnosisAgeMonths": 60,
+    "delays": [],
+    "adosScore": null,
+    "adirScore": 30
+  },
+  {
+    "caseId": "ASD-004",
+    "gender": "Male",
+    "pregnancyType": "Natural",
+    "plurality": "Single",
+    "pregnancyEvolution": "Normal",
+    "languageLevel": "Absent",
+    "eegStatus": "Normal",
+    "mriStatus": "Unknown",
+    "diagnosisAgeMonths": 32,
+    "delays": [
+      "Cognitive"
+    ],
+    "adosScore": null,
+    "adirScore": 34
+  },
+  {
+    "caseId": "ASD-005",
+    "gender": "Male",
+    "pregnancyType": "Natural",
+    "plurality": "Single",
+    "pregnancyEvolution": "Normal",
+    "languageLevel": "Absent",
+    "eegStatus": "Normal",
+    "mriStatus": "Unknown",
+    "diagnosisAgeMonths": 24,
+    "delays": [
+      "Global"
+    ],
+    "adosScore": null,
+    "adirScore": 33
+  },
+  {
+    "caseId": "ASD-006",
+    "gender": "Female",
+    "pregnancyType": "Natural",
+    "plurality": "Single",
+    "pregnancyEvolution": "Abnormal",
+    "languageLevel": "Delayed",
+    "eegStatus": "Normal",
+    "mriStatus": "Unknown",
+    "diagnosisAgeMonths": 30,
+    "delays": [
+      "Cognitive"
+    ],
+    "adosScore": null,
+    "adirScore": 34
+  },
+  {
+    "caseId": "ASD-007",
+    "gender": "Male",
+    "pregnancyType": "Natural",
+    "plurality": "Single",
+    "pregnancyEvolution": "Normal",
+    "languageLevel": "Delayed",
+    "eegStatus": "Normal",
+    "mriStatus": "Unknown",
+    "diagnosisAgeMonths": 62,
+    "delays": [
+      "Global"
+    ],
+    "adosScore": null,
+    "adirScore": 32
+  },
+  {
+    "caseId": "ASD-008",
+    "gender": "Male",
+    "pregnancyType": "Natural",
+    "plurality": "Single",
+    "pregnancyEvolution": "Abnormal",
+    "languageLevel": "Functional",
+    "eegStatus": "Normal",
+    "mriStatus": "Normal",
+    "diagnosisAgeMonths": 30,
+    "delays": [
+      "Cognitive"
+    ],
+    "adosScore": null,
+    "adirScore": 30
+  },
+  {
+    "caseId": "ASD-009",
+    "gender": "Male",
+    "pregnancyType": "Natural",
+    "plurality": "Single",
+    "pregnancyEvolution": "Normal",
+    "languageLevel": "Delayed",
+    "eegStatus": "Normal",
+    "mriStatus": "Normal",
+    "diagnosisAgeMonths": 23,
+    "delays": [
+      "Cognitive"
+    ],
+    "adosScore": null,
+    "adirScore": 21
+  },
+  {
+    "caseId": "ASD-010",
+    "gender": "Male",
+    "pregnancyType": "Natural",
+    "plurality": "Single",
+    "pregnancyEvolution": "Abnormal",
+    "languageLevel": "Delayed",
+    "eegStatus": "Normal",
+    "mriStatus": "Normal",
+    "diagnosisAgeMonths": 27,
+    "delays": [
+      "Cognitive"
+    ],
+    "adosScore": null,
+    "adirScore": 20
+  },
+  {
+    "caseId": "ASD-011",
+    "gender": "Male",
+    "pregnancyType": "Natural",
+    "plurality": "Single",
+    "pregnancyEvolution": "Abnormal",
+    "languageLevel": "Delayed",
+    "eegStatus": "Normal",
+    "mriStatus": "Normal",
+    "diagnosisAgeMonths": 35,
+    "delays": [
+      "Global"
+    ],
+    "adosScore": 8,
+    "adirScore": 34
+  },
+  {
+    "caseId": "ASD-012",
+    "gender": "Female",
+    "pregnancyType": "Natural",
+    "plurality": "Single",
+    "pregnancyEvolution": "Abnormal",
+    "languageLevel": "Delayed",
+    "eegStatus": "Normal",
+    "mriStatus": "Normal",
+    "diagnosisAgeMonths": 24,
+    "delays": [
+      "Cognitive"
+    ],
+    "adosScore": null,
+    "adirScore": 32
+  },
+  {
+    "caseId": "ASD-013",
+    "gender": "Male",
+    "pregnancyType": "Natural",
+    "plurality": "Single",
+    "pregnancyEvolution": "Abnormal",
+    "languageLevel": "Delayed",
+    "eegStatus": "Normal",
+    "mriStatus": "Normal",
+    "diagnosisAgeMonths": 24,
+    "delays": [
+      "Cognitive"
+    ],
+    "adosScore": null,
+    "adirScore": 36
+  },
+  {
+    "caseId": "ASD-014",
+    "gender": "Male",
+    "pregnancyType": "Natural",
+    "plurality": "Single",
+    "pregnancyEvolution": "Abnormal",
+    "languageLevel": "Delayed",
+    "eegStatus": "Normal",
+    "mriStatus": "Anomaly",
+    "diagnosisAgeMonths": 84,
+    "delays": [
+      "Global"
+    ],
+    "adosScore": null,
+    "adirScore": 32
+  },
+  {
+    "caseId": "ASD-015",
+    "gender": "Male",
+    "pregnancyType": "Natural",
+    "plurality": "Single",
+    "pregnancyEvolution": "Normal",
+    "languageLevel": "Delayed",
+    "eegStatus": "Normal",
+    "mriStatus": "Anomaly",
+    "diagnosisAgeMonths": 30,
+    "delays": [
+      "Global"
+    ],
+    "adosScore": null,
+    "adirScore": 40
+  },
+  {
+    "caseId": "ASD-016",
+    "gender": "Male",
+    "pregnancyType": "Natural",
+    "plurality": "Single",
+    "pregnancyEvolution": "Normal",
+    "languageLevel": "Functional",
+    "eegStatus": "Unknown",
+    "mriStatus": "Unknown",
+    "diagnosisAgeMonths": 252,
+    "delays": [],
+    "adosScore": null,
+    "adirScore": 30
+  },
+  {
+    "caseId": "ASD-017",
+    "gender": "Female",
+    "pregnancyType": "Natural",
+    "plurality": "Single",
+    "pregnancyEvolution": "Normal",
+    "languageLevel": "Delayed",
+    "eegStatus": "Focal",
+    "mriStatus": "Normal",
+    "diagnosisAgeMonths": 36,
+    "delays": [
+      "Cognitive"
+    ],
+    "adosScore": null,
+    "adirScore": 33
+  },
+  {
+    "caseId": "ASD-018",
+    "gender": "Male",
+    "pregnancyType": "Natural",
+    "plurality": "Single",
+    "pregnancyEvolution": "Normal",
+    "languageLevel": "Delayed",
+    "eegStatus": "Normal",
+    "mriStatus": "Normal",
+    "diagnosisAgeMonths": 36,
+    "delays": [
+      "Global"
+    ],
+    "adosScore": null,
+    "adirScore": 32
+  },
+  {
+    "caseId": "ASD-019",
+    "gender": "Male",
+    "pregnancyType": "Natural",
+    "plurality": "Single",
+    "pregnancyEvolution": "Normal",
+    "languageLevel": "Delayed",
+    "eegStatus": "Unknown",
+    "mriStatus": "Normal",
+    "diagnosisAgeMonths": 24,
+    "delays": [
+      "Cognitive"
+    ],
+    "adosScore": 20,
+    "adirScore": 30
+  },
+  {
+    "caseId": "ASD-020",
+    "gender": "Male",
+    "pregnancyType": "Natural",
+    "plurality": "Single",
+    "pregnancyEvolution": "Normal",
+    "languageLevel": "Delayed",
+    "eegStatus": "Focal",
+    "mriStatus": "Anomaly",
+    "diagnosisAgeMonths": 36,
+    "delays": [
+      "Global"
+    ],
+    "adosScore": 20,
+    "adirScore": 32
+  },
+  {
+    "caseId": "ASD-021",
+    "gender": "Male",
+    "pregnancyType": "Natural",
+    "plurality": "Single",
+    "pregnancyEvolution": "Normal",
+    "languageLevel": "Absent",
+    "eegStatus": "Unknown",
+    "mriStatus": "Anomaly",
+    "diagnosisAgeMonths": 48,
+    "delays": [
+      "Global"
+    ],
+    "adosScore": null,
+    "adirScore": 37
+  },
+  {
+    "caseId": "ASD-022",
+    "gender": "Male",
+    "pregnancyType": "Natural",
+    "plurality": "Single",
+    "pregnancyEvolution": "Normal",
+    "languageLevel": "Functional",
+    "eegStatus": "Normal",
+    "mriStatus": "Normal",
+    "diagnosisAgeMonths": 48,
+    "delays": [
+      "Cognitive"
+    ],
+    "adosScore": 9,
+    "adirScore": 38
+  },
+  {
+    "caseId": "ASD-023",
+    "gender": "Male",
+    "pregnancyType": "Natural",
+    "plurality": "Single",
+    "pregnancyEvolution": "Normal",
+    "languageLevel": "Delayed",
+    "eegStatus": "Normal",
+    "mriStatus": "Unknown",
+    "diagnosisAgeMonths": 100,
+    "delays": [
+      "Global"
+    ],
+    "adosScore": null,
+    "adirScore": 35
+  },
+  {
+    "caseId": "ASD-024",
+    "gender": "Male",
+    "pregnancyType": "Natural",
+    "plurality": "Single",
+    "pregnancyEvolution": "Abnormal",
+    "languageLevel": "Absent",
+    "eegStatus": "Normal",
+    "mriStatus": "Anomaly",
+    "diagnosisAgeMonths": 21,
+    "delays": [
+      "Global"
+    ],
+    "adosScore": null,
+    "adirScore": 32
+  },
+  {
+    "caseId": "ASD-025",
+    "gender": "Female",
+    "pregnancyType": "Natural",
+    "plurality": "Single",
+    "pregnancyEvolution": "Normal",
+    "languageLevel": "Delayed",
+    "eegStatus": "Focal",
+    "mriStatus": "Unknown",
+    "diagnosisAgeMonths": 26,
+    "delays": [
+      "Global"
+    ],
+    "adosScore": null,
+    "adirScore": 33
+  },
+  {
+    "caseId": "ASD-026",
+    "gender": "Male",
+    "pregnancyType": "Natural",
+    "plurality": "Single",
+    "pregnancyEvolution": "Normal",
+    "languageLevel": "Delayed",
+    "eegStatus": "Unknown",
+    "mriStatus": "Unknown",
+    "diagnosisAgeMonths": 21,
+    "delays": [
+      "Cognitive"
+    ],
+    "adosScore": 15,
+    "adirScore": 35
+  },
+  {
+    "caseId": "ASD-027",
+    "gender": "Male",
+    "pregnancyType": "Natural",
+    "plurality": "Single",
+    "pregnancyEvolution": "Normal",
+    "languageLevel": "Absent",
+    "eegStatus": "Normal",
+    "mriStatus": "Anomaly",
+    "diagnosisAgeMonths": 48,
+    "delays": [
+      "Global"
+    ],
+    "adosScore": null,
+    "adirScore": 32
+  },
+  {
+    "caseId": "ASD-028",
+    "gender": "Male",
+    "pregnancyType": "Natural",
+    "plurality": "Single",
+    "pregnancyEvolution": "Normal",
+    "languageLevel": "Delayed",
+    "eegStatus": "Normal",
+    "mriStatus": "Unknown",
+    "diagnosisAgeMonths": 38,
+    "delays": [
+      "Global"
+    ],
+    "adosScore": 3,
+    "adirScore": 34
+  },
+  {
+    "caseId": "ASD-029",
+    "gender": "Male",
+    "pregnancyType": "Natural",
+    "plurality": "Single",
+    "pregnancyEvolution": "Normal",
+    "languageLevel": "Absent",
+    "eegStatus": "Normal",
+    "mriStatus": "Unknown",
+    "diagnosisAgeMonths": 30,
+    "delays": [
+      "Cognitive"
+    ],
+    "adosScore": null,
+    "adirScore": 39
+  },
+  {
+    "caseId": "ASD-030",
+    "gender": "Female",
+    "pregnancyType": "Natural",
+    "plurality": "Single",
+    "pregnancyEvolution": "Normal",
+    "languageLevel": "Delayed",
+    "eegStatus": "Normal",
+    "mriStatus": "Anomaly",
+    "diagnosisAgeMonths": 144,
+    "delays": [
+      "Global"
+    ],
+    "adosScore": 14,
+    "adirScore": 40
+  },
+  {
+    "caseId": "ASD-031",
+    "gender": "Male",
+    "pregnancyType": "Natural",
+    "plurality": "Single",
+    "pregnancyEvolution": "Normal",
+    "languageLevel": "Delayed",
+    "eegStatus": "Normal",
+    "mriStatus": "Unknown",
+    "diagnosisAgeMonths": 36,
+    "delays": [
+      "Cognitive"
+    ],
+    "adosScore": null,
+    "adirScore": 46
+  },
+  {
+    "caseId": "ASD-032",
+    "gender": "Male",
+    "pregnancyType": "Natural",
+    "plurality": "Twin",
+    "pregnancyEvolution": "Normal",
+    "languageLevel": "Absent",
+    "eegStatus": "Unknown",
+    "mriStatus": "Anomaly",
+    "diagnosisAgeMonths": 26,
+    "delays": [
+      "Global"
+    ],
+    "adosScore": null,
+    "adirScore": 34
+  },
+  {
+    "caseId": "ASD-033",
+    "gender": "Female",
+    "pregnancyType": "Natural",
+    "plurality": "Single",
+    "pregnancyEvolution": "Normal",
+    "languageLevel": "Delayed",
+    "eegStatus": "Normal",
+    "mriStatus": "Unknown",
+    "diagnosisAgeMonths": 23,
+    "delays": [
+      "Cognitive"
+    ],
+    "adosScore": null,
+    "adirScore": 36
+  },
+  {
+    "caseId": "ASD-034",
+    "gender": "Female",
+    "pregnancyType": "Natural",
+    "plurality": "Single",
+    "pregnancyEvolution": "Normal",
+    "languageLevel": "Delayed",
+    "eegStatus": "Normal",
+    "mriStatus": "Normal",
+    "diagnosisAgeMonths": 36,
+    "delays": [
+      "Cognitive"
+    ],
+    "adosScore": null,
+    "adirScore": 35
+  },
+  {
+    "caseId": "ASD-035",
+    "gender": "Male",
+    "pregnancyType": "Natural",
+    "plurality": "Single",
+    "pregnancyEvolution": "Abnormal",
+    "languageLevel": "Delayed",
+    "eegStatus": "Normal",
+    "mriStatus": "Anomaly",
+    "diagnosisAgeMonths": 24,
+    "delays": [
+      "Global"
+    ],
+    "adosScore": null,
+    "adirScore": 38
+  },
+  {
+    "caseId": "ASD-036",
+    "gender": "Male",
+    "pregnancyType": "Natural",
+    "plurality": "Single",
+    "pregnancyEvolution": "Normal",
+    "languageLevel": "Delayed",
+    "eegStatus": "Bilateral",
+    "mriStatus": "Normal",
+    "diagnosisAgeMonths": 36,
+    "delays": [
+      "Cognitive"
+    ],
+    "adosScore": null,
+    "adirScore": 34
+  },
+  {
+    "caseId": "ASD-037",
+    "gender": "Male",
+    "pregnancyType": "Natural",
+    "plurality": "Single",
+    "pregnancyEvolution": "Abnormal",
+    "languageLevel": "Delayed",
+    "eegStatus": "Normal",
+    "mriStatus": "Unknown",
+    "diagnosisAgeMonths": 48,
+    "delays": [
+      "Cognitive"
+    ],
+    "adosScore": null,
+    "adirScore": 33
+  },
+  {
+    "caseId": "ASD-038",
+    "gender": "Female",
+    "pregnancyType": "Natural",
+    "plurality": "Single",
+    "pregnancyEvolution": "Normal",
+    "languageLevel": "Delayed",
+    "eegStatus": "Normal",
+    "mriStatus": "Unknown",
+    "diagnosisAgeMonths": 42,
+    "delays": [
+      "Cognitive"
+    ],
+    "adosScore": 8,
+    "adirScore": 36
+  },
+  {
+    "caseId": "ASD-039",
+    "gender": "Male",
+    "pregnancyType": "Natural",
+    "plurality": "Single",
+    "pregnancyEvolution": "Abnormal",
+    "languageLevel": "Functional",
+    "eegStatus": "Focal",
+    "mriStatus": "Unknown",
+    "diagnosisAgeMonths": 36,
+    "delays": [
+      "Cognitive"
+    ],
+    "adosScore": 7,
+    "adirScore": 35
+  },
+  {
+    "caseId": "ASD-040",
+    "gender": "Male",
+    "pregnancyType": "Natural",
+    "plurality": "Single",
+    "pregnancyEvolution": "Abnormal",
+    "languageLevel": "Delayed",
+    "eegStatus": "Unknown",
+    "mriStatus": "Unknown",
+    "diagnosisAgeMonths": 24,
+    "delays": [
+      "Cognitive"
+    ],
+    "adosScore": null,
+    "adirScore": 40
+  },
+  {
+    "caseId": "ASD-041",
+    "gender": "Male",
+    "pregnancyType": "Natural",
+    "plurality": "Single",
+    "pregnancyEvolution": "Normal",
+    "languageLevel": "Absent",
+    "eegStatus": "Unknown",
+    "mriStatus": "Unknown",
+    "diagnosisAgeMonths": 16,
+    "delays": [
+      "Cognitive"
+    ],
+    "adosScore": 35,
+    "adirScore": 35
+  },
+  {
+    "caseId": "ASD-042",
+    "gender": "Male",
+    "pregnancyType": "Natural",
+    "plurality": "Single",
+    "pregnancyEvolution": "Normal",
+    "languageLevel": "Delayed",
+    "eegStatus": "Unknown",
+    "mriStatus": "Unknown",
+    "diagnosisAgeMonths": 24,
+    "delays": [
+      "Cognitive"
+    ],
+    "adosScore": null,
+    "adirScore": 39
+  },
+  {
+    "caseId": "ASD-043",
+    "gender": "Female",
+    "pregnancyType": "Natural",
+    "plurality": "Single",
+    "pregnancyEvolution": "Normal",
+    "languageLevel": "Delayed",
+    "eegStatus": "Normal",
+    "mriStatus": "Unknown",
+    "diagnosisAgeMonths": 36,
+    "delays": [
+      "Global"
+    ],
+    "adosScore": null,
+    "adirScore": 36
+  },
+  {
+    "caseId": "ASD-044",
+    "gender": "Male",
+    "pregnancyType": "Natural",
+    "plurality": "Single",
+    "pregnancyEvolution": "Abnormal",
+    "languageLevel": "Delayed",
+    "eegStatus": "Normal",
+    "mriStatus": "Normal",
+    "diagnosisAgeMonths": 48,
+    "delays": [
+      "Cognitive"
+    ],
+    "adosScore": null,
+    "adirScore": 36
+  },
+  {
+    "caseId": "ASD-045",
+    "gender": "Female",
+    "pregnancyType": "Natural",
+    "plurality": "Single",
+    "pregnancyEvolution": "Abnormal",
+    "languageLevel": "Delayed",
+    "eegStatus": "Normal",
+    "mriStatus": "Unknown",
+    "diagnosisAgeMonths": 18,
+    "delays": [
+      "Cognitive"
+    ],
+    "adosScore": 12,
+    "adirScore": 12
+  },
+  {
+    "caseId": "ASD-046",
+    "gender": "Male",
+    "pregnancyType": "Natural",
+    "plurality": "Single",
+    "pregnancyEvolution": "Normal",
+    "languageLevel": "Delayed",
+    "eegStatus": "Normal",
+    "mriStatus": "Unknown",
+    "diagnosisAgeMonths": 36,
+    "delays": [
+      "Cognitive"
+    ],
+    "adosScore": null,
+    "adirScore": 33
+  },
+  {
+    "caseId": "ASD-047",
+    "gender": "Male",
+    "pregnancyType": "Natural",
+    "plurality": "Single",
+    "pregnancyEvolution": "Normal",
+    "languageLevel": "Absent",
+    "eegStatus": "Unknown",
+    "mriStatus": "Unknown",
+    "diagnosisAgeMonths": 36,
+    "delays": [
+      "Global"
+    ],
+    "adosScore": 49,
+    "adirScore": 48
+  },
+  {
+    "caseId": "ASD-048",
+    "gender": "Male",
+    "pregnancyType": "Natural",
+    "plurality": "Single",
+    "pregnancyEvolution": "Normal",
+    "languageLevel": "Delayed",
+    "eegStatus": "Unknown",
+    "mriStatus": "Unknown",
+    "diagnosisAgeMonths": 61,
+    "delays": [
+      "Global"
+    ],
+    "adosScore": 4,
+    "adirScore": 14
+  },
+  {
+    "caseId": "ASD-049",
+    "gender": "Male",
+    "pregnancyType": "Natural",
+    "plurality": "Single",
+    "pregnancyEvolution": "Normal",
+    "languageLevel": "Delayed",
+    "eegStatus": "Normal",
+    "mriStatus": "Unknown",
+    "diagnosisAgeMonths": 69,
+    "delays": [
+      "Cognitive"
+    ],
+    "adosScore": null,
+    "adirScore": 10
+  },
+  {
+    "caseId": "ASD-050",
+    "gender": "Male",
+    "pregnancyType": "Natural",
+    "plurality": "Single",
+    "pregnancyEvolution": "Normal",
+    "languageLevel": "Delayed",
+    "eegStatus": "Unknown",
+    "mriStatus": "Unknown",
+    "diagnosisAgeMonths": 22,
+    "delays": [
+      "Cognitive"
+    ],
+    "adosScore": null,
+    "adirScore": 39
+  },
+  {
+    "caseId": "ASD-051",
+    "gender": "Male",
+    "pregnancyType": "Natural",
+    "plurality": "Single",
+    "pregnancyEvolution": "Abnormal",
+    "languageLevel": "Delayed",
+    "eegStatus": "Unknown",
+    "mriStatus": "Unknown",
+    "diagnosisAgeMonths": 30,
+    "delays": [
+      "Cognitive"
+    ],
+    "adosScore": 11,
+    "adirScore": 40
+  },
+  {
+    "caseId": "ASD-052",
+    "gender": "Male",
+    "pregnancyType": "Natural",
+    "plurality": "Single",
+    "pregnancyEvolution": "Abnormal",
+    "languageLevel": "Absent",
+    "eegStatus": "Normal",
+    "mriStatus": "Normal",
+    "diagnosisAgeMonths": 18,
+    "delays": [
+      "Cognitive"
+    ],
+    "adosScore": 18,
+    "adirScore": 41
+  },
+  {
+    "caseId": "ASD-053",
+    "gender": "Female",
+    "pregnancyType": "Natural",
+    "plurality": "Single",
+    "pregnancyEvolution": "Normal",
+    "languageLevel": "Absent",
+    "eegStatus": "Unknown",
+    "mriStatus": "Unknown",
+    "diagnosisAgeMonths": 72,
+    "delays": [],
+    "adosScore": null,
+    "adirScore": 41
+  },
+  {
+    "caseId": "ASD-054",
+    "gender": "Male",
+    "pregnancyType": "Natural",
+    "plurality": "Single",
+    "pregnancyEvolution": "Normal",
+    "languageLevel": "Delayed",
+    "eegStatus": "Normal",
+    "mriStatus": "Unknown",
+    "diagnosisAgeMonths": 48,
+    "delays": [
+      "Cognitive"
+    ],
+    "adosScore": 17,
+    "adirScore": 44
+  },
+  {
+    "caseId": "ASD-055",
+    "gender": "Female",
+    "pregnancyType": "Natural",
+    "plurality": "Single",
+    "pregnancyEvolution": "Normal",
+    "languageLevel": "Delayed",
+    "eegStatus": "Focal",
+    "mriStatus": "Anomaly",
+    "diagnosisAgeMonths": 48,
+    "delays": [
+      "Global"
+    ],
+    "adosScore": null,
+    "adirScore": 40
+  },
+  {
+    "caseId": "ASD-056",
+    "gender": "Female",
+    "pregnancyType": "Natural",
+    "plurality": "Single",
+    "pregnancyEvolution": "Normal",
+    "languageLevel": "Delayed",
+    "eegStatus": "Normal",
+    "mriStatus": "Unknown",
+    "diagnosisAgeMonths": 36,
+    "delays": [
+      "Cognitive"
+    ],
+    "adosScore": null,
+    "adirScore": 40
+  },
+  {
+    "caseId": "ASD-057",
+    "gender": "Male",
+    "pregnancyType": "Natural",
+    "plurality": "Single",
+    "pregnancyEvolution": "Normal",
+    "languageLevel": "Delayed",
+    "eegStatus": "Unknown",
+    "mriStatus": "Anomaly",
+    "diagnosisAgeMonths": 29,
+    "delays": [
+      "Cognitive"
+    ],
+    "adosScore": null,
+    "adirScore": 39
+  },
+  {
+    "caseId": "ASD-058",
+    "gender": "Male",
+    "pregnancyType": "Natural",
+    "plurality": "Single",
+    "pregnancyEvolution": "Abnormal",
+    "languageLevel": "Delayed",
+    "eegStatus": "Normal",
+    "mriStatus": "Unknown",
+    "diagnosisAgeMonths": 30,
+    "delays": [
+      "Cognitive"
+    ],
+    "adosScore": null,
+    "adirScore": 49
+  },
+  {
+    "caseId": "ASD-059",
+    "gender": "Male",
+    "pregnancyType": "Natural",
+    "plurality": "Single",
+    "pregnancyEvolution": "Normal",
+    "languageLevel": "Delayed",
+    "eegStatus": "Normal",
+    "mriStatus": "Normal",
+    "diagnosisAgeMonths": 30,
+    "delays": [
+      "Cognitive"
+    ],
+    "adosScore": 18,
+    "adirScore": 41
+  },
+  {
+    "caseId": "ASD-060",
+    "gender": "Male",
+    "pregnancyType": "Natural",
+    "plurality": "Single",
+    "pregnancyEvolution": "Abnormal",
+    "languageLevel": "Delayed",
+    "eegStatus": "Unknown",
+    "mriStatus": "Unknown",
+    "diagnosisAgeMonths": 21,
+    "delays": [
+      "Cognitive"
+    ],
+    "adosScore": null,
+    "adirScore": 39
+  },
+  {
+    "caseId": "ASD-061",
+    "gender": "Female",
+    "pregnancyType": "Natural",
+    "plurality": "Single",
+    "pregnancyEvolution": "Normal",
+    "languageLevel": "Delayed",
+    "eegStatus": "Normal",
+    "mriStatus": "Unknown",
+    "diagnosisAgeMonths": 48,
+    "delays": [
+      "Cognitive"
+    ],
+    "adosScore": null,
+    "adirScore": 40
+  },
+  {
+    "caseId": "ASD-062",
+    "gender": "Male",
+    "pregnancyType": "IVF",
+    "plurality": "Twin",
+    "pregnancyEvolution": "Normal",
+    "languageLevel": "Delayed",
+    "eegStatus": "Unknown",
+    "mriStatus": "Unknown",
+    "diagnosisAgeMonths": 33,
+    "delays": [
+      "Cognitive"
+    ],
+    "adosScore": null,
+    "adirScore": 39
+  },
+  {
+    "caseId": "ASD-063",
+    "gender": "Male",
+    "pregnancyType": "Natural",
+    "plurality": "Single",
+    "pregnancyEvolution": "NA",
+    "languageLevel": "Delayed",
+    "eegStatus": "Unknown",
+    "mriStatus": "Unknown",
+    "diagnosisAgeMonths": 84,
+    "delays": [
+      "Cognitive"
+    ],
+    "adosScore": null,
+    "adirScore": 38
+  },
+  {
+    "caseId": "ASD-064",
+    "gender": "Male",
+    "pregnancyType": "Natural",
+    "plurality": "Single",
+    "pregnancyEvolution": "NA",
+    "languageLevel": "Delayed",
+    "eegStatus": "Unknown",
+    "mriStatus": "Anomaly",
+    "diagnosisAgeMonths": 48,
+    "delays": [
+      "Global"
+    ],
+    "adosScore": 13,
+    "adirScore": 43
+  },
+  {
+    "caseId": "ASD-065",
+    "gender": "Male",
+    "pregnancyType": "Natural",
+    "plurality": "Single",
+    "pregnancyEvolution": "Normal",
+    "languageLevel": "Delayed",
+    "eegStatus": "Normal",
+    "mriStatus": "Unknown",
+    "diagnosisAgeMonths": 60,
+    "delays": [
+      "Cognitive"
+    ],
+    "adosScore": null,
+    "adirScore": 38
+  },
+  {
+    "caseId": "ASD-066",
+    "gender": "Female",
+    "pregnancyType": "Natural",
+    "plurality": "Single",
+    "pregnancyEvolution": "Normal",
+    "languageLevel": "Delayed",
+    "eegStatus": "Unknown",
+    "mriStatus": "Unknown",
+    "diagnosisAgeMonths": 96,
+    "delays": [
+      "Cognitive"
+    ],
+    "adosScore": null,
+    "adirScore": 38
+  },
+  {
+    "caseId": "ASD-067",
+    "gender": "Male",
+    "pregnancyType": "Natural",
+    "plurality": "Single",
+    "pregnancyEvolution": "Abnormal",
+    "languageLevel": "Delayed",
+    "eegStatus": "Unknown",
+    "mriStatus": "Unknown",
+    "diagnosisAgeMonths": 84,
+    "delays": [
+      "Cognitive"
+    ],
+    "adosScore": null,
+    "adirScore": 40
+  },
+  {
+    "caseId": "ASD-068",
+    "gender": "Male",
+    "pregnancyType": "Natural",
+    "plurality": "Single",
+    "pregnancyEvolution": "Normal",
+    "languageLevel": "Delayed",
+    "eegStatus": "Normal",
+    "mriStatus": "Unknown",
+    "diagnosisAgeMonths": 30,
+    "delays": [
+      "Cognitive"
+    ],
+    "adosScore": null,
+    "adirScore": 39
+  },
+  {
+    "caseId": "ASD-069",
+    "gender": "Male",
+    "pregnancyType": "Natural",
+    "plurality": "Single",
+    "pregnancyEvolution": "Abnormal",
+    "languageLevel": "Delayed",
+    "eegStatus": "Normal",
+    "mriStatus": "Unknown",
+    "diagnosisAgeMonths": 96,
+    "delays": [
+      "Global"
+    ],
+    "adosScore": null,
+    "adirScore": 38
+  },
+  {
+    "caseId": "ASD-070",
+    "gender": "Male",
+    "pregnancyType": "Natural",
+    "plurality": "Single",
+    "pregnancyEvolution": "Normal",
+    "languageLevel": "Delayed",
+    "eegStatus": "Unknown",
+    "mriStatus": "Anomaly",
+    "diagnosisAgeMonths": 32,
+    "delays": [
+      "Cognitive"
+    ],
+    "adosScore": null,
+    "adirScore": null
+  },
+  {
+    "caseId": "ASD-071",
+    "gender": "Male",
+    "pregnancyType": "Natural",
+    "plurality": "Single",
+    "pregnancyEvolution": "Normal",
+    "languageLevel": "Delayed",
+    "eegStatus": "Unknown",
+    "mriStatus": "Unknown",
+    "diagnosisAgeMonths": 55,
+    "delays": [
+      "Cognitive"
+    ],
+    "adosScore": 11,
+    "adirScore": 40
+  },
+  {
+    "caseId": "ASD-072",
+    "gender": "Male",
+    "pregnancyType": "Natural",
+    "plurality": "Single",
+    "pregnancyEvolution": "Abnormal",
+    "languageLevel": "Delayed",
+    "eegStatus": "Normal",
+    "mriStatus": "Unknown",
+    "diagnosisAgeMonths": 28,
+    "delays": [
+      "Cognitive"
+    ],
+    "adosScore": 15,
+    "adirScore": 38
+  },
+  {
+    "caseId": "ASD-073",
+    "gender": "Male",
+    "pregnancyType": "Natural",
+    "plurality": "Single",
+    "pregnancyEvolution": "Normal",
+    "languageLevel": "Delayed",
+    "eegStatus": "Normal",
+    "mriStatus": "Unknown",
+    "diagnosisAgeMonths": 52,
+    "delays": [
+      "Cognitive"
+    ],
+    "adosScore": null,
+    "adirScore": 38
+  },
+  {
+    "caseId": "ASD-074",
+    "gender": "Male",
+    "pregnancyType": "Natural",
+    "plurality": "Single",
+    "pregnancyEvolution": "Abnormal",
+    "languageLevel": "Delayed",
+    "eegStatus": "Unknown",
+    "mriStatus": "Unknown",
+    "diagnosisAgeMonths": 33,
+    "delays": [
+      "Cognitive"
+    ],
+    "adosScore": null,
+    "adirScore": 40
+  },
+  {
+    "caseId": "ASD-075",
+    "gender": "Male",
+    "pregnancyType": "Natural",
+    "plurality": "Single",
+    "pregnancyEvolution": "Abnormal",
+    "languageLevel": "Delayed",
+    "eegStatus": "Focal",
+    "mriStatus": "Unknown",
+    "diagnosisAgeMonths": 30,
+    "delays": [
+      "Global"
+    ],
+    "adosScore": 10,
+    "adirScore": 39
+  },
+  {
+    "caseId": "ASD-076",
+    "gender": "Male",
+    "pregnancyType": "Natural",
+    "plurality": "Single",
+    "pregnancyEvolution": "Normal",
+    "languageLevel": "Delayed",
+    "eegStatus": "Unknown",
+    "mriStatus": "Unknown",
+    "diagnosisAgeMonths": 120,
+    "delays": [
+      "Global"
+    ],
+    "adosScore": null,
+    "adirScore": 38
+  },
+  {
+    "caseId": "ASD-077",
+    "gender": "Male",
+    "pregnancyType": "Natural",
+    "plurality": "Single",
+    "pregnancyEvolution": "Normal",
+    "languageLevel": "Absent",
+    "eegStatus": "Normal",
+    "mriStatus": "Unknown",
+    "diagnosisAgeMonths": 47,
+    "delays": [
+      "Cognitive"
+    ],
+    "adosScore": null,
+    "adirScore": 39
+  },
+  {
+    "caseId": "ASD-078",
+    "gender": "Male",
+    "pregnancyType": "Natural",
+    "plurality": "Single",
+    "pregnancyEvolution": "Normal",
+    "languageLevel": "Functional",
+    "eegStatus": "Unknown",
+    "mriStatus": "Unknown",
+    "diagnosisAgeMonths": 135,
+    "delays": [
+      "Cognitive"
+    ],
+    "adosScore": null,
+    "adirScore": 39
+  },
+  {
+    "caseId": "ASD-079",
+    "gender": "Female",
+    "pregnancyType": "Natural",
+    "plurality": "Single",
+    "pregnancyEvolution": "Normal",
+    "languageLevel": "Absent",
+    "eegStatus": "Normal",
+    "mriStatus": "Unknown",
+    "diagnosisAgeMonths": 23,
+    "delays": [
+      "Cognitive"
+    ],
+    "adosScore": null,
+    "adirScore": 36
+  },
+  {
+    "caseId": "ASD-080",
+    "gender": "Male",
+    "pregnancyType": "Natural",
+    "plurality": "Single",
+    "pregnancyEvolution": "Normal",
+    "languageLevel": "Delayed",
+    "eegStatus": "Normal",
+    "mriStatus": "Anomaly",
+    "diagnosisAgeMonths": 36,
+    "delays": [
+      "Cognitive"
+    ],
+    "adosScore": 16,
+    "adirScore": 40
+  },
+  {
+    "caseId": "ASD-081",
+    "gender": "Female",
+    "pregnancyType": "Natural",
+    "plurality": "Single",
+    "pregnancyEvolution": "Normal",
+    "languageLevel": "Delayed",
+    "eegStatus": "Unknown",
+    "mriStatus": "Unknown",
+    "diagnosisAgeMonths": 48,
+    "delays": [
+      "Cognitive"
+    ],
+    "adosScore": null,
+    "adirScore": 41
+  },
+  {
+    "caseId": "ASD-082",
+    "gender": "Female",
+    "pregnancyType": "Natural",
+    "plurality": "Single",
+    "pregnancyEvolution": "Normal",
+    "languageLevel": "Delayed",
+    "eegStatus": "Normal",
+    "mriStatus": "Unknown",
+    "diagnosisAgeMonths": 30,
+    "delays": [
+      "Cognitive"
+    ],
+    "adosScore": null,
+    "adirScore": 40
+  },
+  {
+    "caseId": "ASD-083",
+    "gender": "Male",
+    "pregnancyType": "Natural",
+    "plurality": "Single",
+    "pregnancyEvolution": "Normal",
+    "languageLevel": "Delayed",
+    "eegStatus": "Unknown",
+    "mriStatus": "Unknown",
+    "diagnosisAgeMonths": 48,
+    "delays": [
+      "Cognitive"
+    ],
+    "adosScore": null,
+    "adirScore": 41
+  },
+  {
+    "caseId": "ASD-084",
+    "gender": "Male",
+    "pregnancyType": "Natural",
+    "plurality": "Single",
+    "pregnancyEvolution": "Normal",
+    "languageLevel": "Delayed",
+    "eegStatus": "Unknown",
+    "mriStatus": "Unknown",
+    "diagnosisAgeMonths": 48,
+    "delays": [
+      "Cognitive"
+    ],
+    "adosScore": null,
+    "adirScore": 40
+  },
+  {
+    "caseId": "ASD-085",
+    "gender": "Male",
+    "pregnancyType": "Natural",
+    "plurality": "Single",
+    "pregnancyEvolution": "Normal",
+    "languageLevel": "Delayed",
+    "eegStatus": "Normal",
+    "mriStatus": "Anomaly",
+    "diagnosisAgeMonths": 27,
+    "delays": [
+      "Global"
+    ],
+    "adosScore": null,
+    "adirScore": 55
+  },
+  {
+    "caseId": "ASD-086",
+    "gender": "Female",
+    "pregnancyType": "Natural",
+    "plurality": "Single",
+    "pregnancyEvolution": "NA",
+    "languageLevel": "Delayed",
+    "eegStatus": "Normal",
+    "mriStatus": "Unknown",
+    "diagnosisAgeMonths": 120,
+    "delays": [
+      "Global"
+    ],
+    "adosScore": null,
+    "adirScore": 30
+  },
+  {
+    "caseId": "ASD-087",
+    "gender": "Male",
+    "pregnancyType": "Natural",
+    "plurality": "Single",
+    "pregnancyEvolution": "Normal",
+    "languageLevel": "Absent",
+    "eegStatus": "Normal",
+    "mriStatus": "Anomaly",
+    "diagnosisAgeMonths": 27,
+    "delays": [
+      "Cognitive"
+    ],
+    "adosScore": null,
+    "adirScore": 55
+  },
+  {
+    "caseId": "ASD-088",
+    "gender": "Female",
+    "pregnancyType": "Natural",
+    "plurality": "Single",
+    "pregnancyEvolution": "Normal",
+    "languageLevel": "Delayed",
+    "eegStatus": "Normal",
+    "mriStatus": "Normal",
+    "diagnosisAgeMonths": 24,
+    "delays": [
+      "Cognitive"
+    ],
+    "adosScore": null,
+    "adirScore": 41
+  },
+  {
+    "caseId": "ASD-089",
+    "gender": "Male",
+    "pregnancyType": "Natural",
+    "plurality": "Single",
+    "pregnancyEvolution": "Normal",
+    "languageLevel": "Delayed",
+    "eegStatus": "Normal",
+    "mriStatus": "Anomaly",
+    "diagnosisAgeMonths": 60,
+    "delays": [
+      "Global"
+    ],
+    "adosScore": null,
+    "adirScore": 40
+  },
+  {
+    "caseId": "ASD-090",
+    "gender": "Male",
+    "pregnancyType": "Natural",
+    "plurality": "Single",
+    "pregnancyEvolution": "Abnormal",
+    "languageLevel": "Delayed",
+    "eegStatus": "Unknown",
+    "mriStatus": "Anomaly",
+    "diagnosisAgeMonths": 30,
+    "delays": [
+      "Cognitive"
+    ],
+    "adosScore": null,
+    "adirScore": 39
+  },
+  {
+    "caseId": "ASD-091",
+    "gender": "Male",
+    "pregnancyType": "Natural",
+    "plurality": "Single",
+    "pregnancyEvolution": "Normal",
+    "languageLevel": "Absent",
+    "eegStatus": "Normal",
+    "mriStatus": "Normal",
+    "diagnosisAgeMonths": 36,
+    "delays": [
+      "Global"
+    ],
+    "adosScore": 10,
+    "adirScore": 38
+  },
+  {
+    "caseId": "ASD-092",
+    "gender": "Male",
+    "pregnancyType": "Natural",
+    "plurality": "Single",
+    "pregnancyEvolution": "Normal",
+    "languageLevel": "Absent",
+    "eegStatus": "Normal",
+    "mriStatus": "NA",
+    "diagnosisAgeMonths": 30,
+    "delays": [
+      "Cognitive"
+    ],
+    "adosScore": null,
+    "adirScore": 39
+  },
+  {
+    "caseId": "ASD-093",
+    "gender": "Male",
+    "pregnancyType": "Natural",
+    "plurality": "Single",
+    "pregnancyEvolution": "Normal",
+    "languageLevel": "Absent",
+    "eegStatus": "Focal",
+    "mriStatus": "Unknown",
+    "diagnosisAgeMonths": 24,
+    "delays": [
+      "Cognitive"
+    ],
+    "adosScore": 25,
+    "adirScore": 38
+  },
+  {
+    "caseId": "ASD-094",
+    "gender": "Male",
+    "pregnancyType": "Natural",
+    "plurality": "Single",
+    "pregnancyEvolution": "Normal",
+    "languageLevel": "Delayed",
+    "eegStatus": "Normal",
+    "mriStatus": "Normal",
+    "diagnosisAgeMonths": 48,
+    "delays": [
+      "Cognitive"
+    ],
+    "adosScore": 11,
+    "adirScore": null
+  },
+  {
+    "caseId": "ASD-095",
+    "gender": "Female",
+    "pregnancyType": "Natural",
+    "plurality": "Single",
+    "pregnancyEvolution": "Normal",
+    "languageLevel": "Delayed",
+    "eegStatus": "Normal",
+    "mriStatus": "Unknown",
+    "diagnosisAgeMonths": 54,
+    "delays": [
+      "Global"
+    ],
+    "adosScore": 17,
+    "adirScore": null
+  },
+  {
+    "caseId": "ASD-096",
+    "gender": "Male",
+    "pregnancyType": "Natural",
+    "plurality": "Single",
+    "pregnancyEvolution": "Normal",
+    "languageLevel": "Absent",
+    "eegStatus": "Normal",
+    "mriStatus": "Unknown",
+    "diagnosisAgeMonths": 30,
+    "delays": [
+      "Cognitive"
+    ],
+    "adosScore": 20,
+    "adirScore": null
+  },
+  {
+    "caseId": "ASD-097",
+    "gender": "Male",
+    "pregnancyType": "Natural",
+    "plurality": "Single",
+    "pregnancyEvolution": "Normal",
+    "languageLevel": "Delayed",
+    "eegStatus": "Unknown",
+    "mriStatus": "Unknown",
+    "diagnosisAgeMonths": 23,
+    "delays": [
+      "Cognitive"
+    ],
+    "adosScore": null,
+    "adirScore": 28
+  },
+  {
+    "caseId": "ASD-098",
+    "gender": "Male",
+    "pregnancyType": "Natural",
+    "plurality": "Single",
+    "pregnancyEvolution": "Normal",
+    "languageLevel": "Delayed",
+    "eegStatus": "Unknown",
+    "mriStatus": "Unknown",
+    "diagnosisAgeMonths": 36,
+    "delays": [],
+    "adosScore": 10,
+    "adirScore": null
+  },
+  {
+    "caseId": "ASD-099",
+    "gender": "Female",
+    "pregnancyType": "Natural",
+    "plurality": "Single",
+    "pregnancyEvolution": "Normal",
+    "languageLevel": "Delayed",
+    "eegStatus": "Normal",
+    "mriStatus": "Anomaly",
+    "diagnosisAgeMonths": null,
+    "delays": [
+      "Global"
+    ],
+    "adosScore": 27,
+    "adirScore": null
+  },
+  {
+    "caseId": "ASD-100",
+    "gender": "Male",
+    "pregnancyType": "Natural",
+    "plurality": "Single",
+    "pregnancyEvolution": "Normal",
+    "languageLevel": "Delayed",
+    "eegStatus": "Focal",
+    "mriStatus": "Unknown",
+    "diagnosisAgeMonths": 21,
+    "delays": [
+      "Cognitive"
+    ],
+    "adosScore": null,
+    "adirScore": 35
+  },
+  {
+    "caseId": "ASD-101",
+    "gender": "Male",
+    "pregnancyType": "Natural",
+    "plurality": "Single",
+    "pregnancyEvolution": "Normal",
+    "languageLevel": "Absent",
+    "eegStatus": "Normal",
+    "mriStatus": "Unknown",
+    "diagnosisAgeMonths": 48,
+    "delays": [
+      "Cognitive"
+    ],
+    "adosScore": null,
+    "adirScore": 38
+  },
+  {
+    "caseId": "ASD-102",
+    "gender": "Male",
+    "pregnancyType": "Natural",
+    "plurality": "Single",
+    "pregnancyEvolution": "Normal",
+    "languageLevel": "Delayed",
+    "eegStatus": "Normal",
+    "mriStatus": "Unknown",
+    "diagnosisAgeMonths": 36,
+    "delays": [
+      "Cognitive"
+    ],
+    "adosScore": 8,
+    "adirScore": null
+  },
+  {
+    "caseId": "ASD-103",
+    "gender": "Female",
+    "pregnancyType": "Natural",
+    "plurality": "Single",
+    "pregnancyEvolution": "Normal",
+    "languageLevel": "Absent",
+    "eegStatus": "Unknown",
+    "mriStatus": "Unknown",
+    "diagnosisAgeMonths": 48,
+    "delays": [
+      "Global"
+    ],
+    "adosScore": 20,
+    "adirScore": null
+  },
+  {
+    "caseId": "ASD-104",
+    "gender": "Female",
+    "pregnancyType": "Natural",
+    "plurality": "Single",
+    "pregnancyEvolution": "Normal",
+    "languageLevel": "Delayed",
+    "eegStatus": "Normal",
+    "mriStatus": "Anomaly",
+    "diagnosisAgeMonths": 36,
+    "delays": [
+      "Cognitive"
+    ],
+    "adosScore": null,
+    "adirScore": 37
+  },
+  {
+    "caseId": "ASD-105",
+    "gender": "Female",
+    "pregnancyType": "Natural",
+    "plurality": "Single",
+    "pregnancyEvolution": "Normal",
+    "languageLevel": "Delayed",
+    "eegStatus": "Normal",
+    "mriStatus": "Unknown",
+    "diagnosisAgeMonths": 30,
+    "delays": [
+      "Cognitive"
+    ],
+    "adosScore": 19,
+    "adirScore": null
+  },
+  {
+    "caseId": "ASD-106",
+    "gender": "Male",
+    "pregnancyType": "Natural",
+    "plurality": "Single",
+    "pregnancyEvolution": "Normal",
+    "languageLevel": "Absent",
+    "eegStatus": "Unknown",
+    "mriStatus": "Unknown",
+    "diagnosisAgeMonths": 24,
+    "delays": [
+      "Global"
+    ],
+    "adosScore": null,
+    "adirScore": 31
+  },
+  {
+    "caseId": "ASD-107",
+    "gender": "Male",
+    "pregnancyType": "Natural",
+    "plurality": "Single",
+    "pregnancyEvolution": "Abnormal",
+    "languageLevel": "Delayed",
+    "eegStatus": "Focal",
+    "mriStatus": "Anomaly",
+    "diagnosisAgeMonths": 24,
+    "delays": [
+      "Global"
+    ],
+    "adosScore": 20,
+    "adirScore": null
+  },
+  {
+    "caseId": "ASD-108",
+    "gender": "Female",
+    "pregnancyType": "Natural",
+    "plurality": "Single",
+    "pregnancyEvolution": "Abnormal",
+    "languageLevel": "Delayed",
+    "eegStatus": "Unknown",
+    "mriStatus": "Unknown",
+    "diagnosisAgeMonths": 34,
+    "delays": [
+      "Global"
+    ],
+    "adosScore": null,
+    "adirScore": 30
+  },
+  {
+    "caseId": "ASD-109",
+    "gender": "Female",
+    "pregnancyType": "Natural",
+    "plurality": "Single",
+    "pregnancyEvolution": "Normal",
+    "languageLevel": "Delayed",
+    "eegStatus": "Unknown",
+    "mriStatus": "Unknown",
+    "diagnosisAgeMonths": 162,
+    "delays": [
+      "Global"
+    ],
+    "adosScore": null,
+    "adirScore": 47
+  },
+  {
+    "caseId": "ASD-110",
+    "gender": "Male",
+    "pregnancyType": "Natural",
+    "plurality": "Single",
+    "pregnancyEvolution": "Normal",
+    "languageLevel": "Absent",
+    "eegStatus": "Unknown",
+    "mriStatus": "Unknown",
+    "diagnosisAgeMonths": 21,
+    "delays": [
+      "Global"
+    ],
+    "adosScore": 27,
+    "adirScore": null
+  },
+  {
+    "caseId": "ASD-111",
+    "gender": "Male",
+    "pregnancyType": "Natural",
+    "plurality": "Single",
+    "pregnancyEvolution": "Normal",
+    "languageLevel": "Delayed",
+    "eegStatus": "Unknown",
+    "mriStatus": "Unknown",
+    "diagnosisAgeMonths": 27,
+    "delays": [
+      "Global"
+    ],
+    "adosScore": null,
+    "adirScore": 45
+  },
+  {
+    "caseId": "ASD-112",
+    "gender": "Male",
+    "pregnancyType": "Natural",
+    "plurality": "Single",
+    "pregnancyEvolution": "Normal",
+    "languageLevel": "Absent",
+    "eegStatus": "Unknown",
+    "mriStatus": "Unknown",
+    "diagnosisAgeMonths": 36,
+    "delays": [
+      "Cognitive"
+    ],
+    "adosScore": 23,
+    "adirScore": null
+  },
+  {
+    "caseId": "ASD-113",
+    "gender": "Male",
+    "pregnancyType": "Natural",
+    "plurality": "Single",
+    "pregnancyEvolution": "Normal",
+    "languageLevel": "Delayed",
+    "eegStatus": "Unknown",
+    "mriStatus": "Unknown",
+    "diagnosisAgeMonths": 36,
+    "delays": [
+      "Cognitive"
+    ],
+    "adosScore": null,
+    "adirScore": 34
+  },
+  {
+    "caseId": "ASD-114",
+    "gender": "Male",
+    "pregnancyType": "Natural",
+    "plurality": "Single",
+    "pregnancyEvolution": "Abnormal",
+    "languageLevel": "Delayed",
+    "eegStatus": "Normal",
+    "mriStatus": "Unknown",
+    "diagnosisAgeMonths": 30,
+    "delays": [
+      "Global"
+    ],
+    "adosScore": null,
+    "adirScore": 31
+  },
+  {
+    "caseId": "ASD-115",
+    "gender": "Male",
+    "pregnancyType": "Natural",
+    "plurality": "Single",
+    "pregnancyEvolution": "Normal",
+    "languageLevel": "Absent",
+    "eegStatus": "Unknown",
+    "mriStatus": "Normal",
+    "diagnosisAgeMonths": 36,
+    "delays": [
+      "Cognitive"
+    ],
+    "adosScore": null,
+    "adirScore": 35
+  },
+  {
+    "caseId": "ASD-116",
+    "gender": "Male",
+    "pregnancyType": "Natural",
+    "plurality": "Single",
+    "pregnancyEvolution": "Normal",
+    "languageLevel": "Delayed",
+    "eegStatus": "Normal",
+    "mriStatus": "Unknown",
+    "diagnosisAgeMonths": 3,
+    "delays": [
+      "Cognitive"
+    ],
+    "adosScore": 9,
+    "adirScore": null
+  },
+  {
+    "caseId": "ASD-117",
+    "gender": "Male",
+    "pregnancyType": "Natural",
+    "plurality": "Single",
+    "pregnancyEvolution": "Normal",
+    "languageLevel": "Delayed",
+    "eegStatus": "Normal",
+    "mriStatus": "Unknown",
+    "diagnosisAgeMonths": null,
+    "delays": [
+      "Cognitive"
+    ],
+    "adosScore": 13,
+    "adirScore": null
+  },
+  {
+    "caseId": "ASD-118",
+    "gender": "Female",
+    "pregnancyType": "Natural",
+    "plurality": "Single",
+    "pregnancyEvolution": "Normal",
+    "languageLevel": "Functional",
+    "eegStatus": "Unknown",
+    "mriStatus": "Unknown",
+    "diagnosisAgeMonths": 21,
+    "delays": [
+      "Cognitive"
+    ],
+    "adosScore": 10,
+    "adirScore": null
+  },
+  {
+    "caseId": "ASD-119",
+    "gender": "Male",
+    "pregnancyType": "Natural",
+    "plurality": "Single",
+    "pregnancyEvolution": "Normal",
+    "languageLevel": "Absent",
+    "eegStatus": "Unknown",
+    "mriStatus": "Normal",
+    "diagnosisAgeMonths": 23,
+    "delays": [
+      "Cognitive"
+    ],
+    "adosScore": 28,
+    "adirScore": null
+  },
+  {
+    "caseId": "ASD-120",
+    "gender": "Male",
+    "pregnancyType": "Natural",
+    "plurality": "Single",
+    "pregnancyEvolution": "Normal",
+    "languageLevel": "Delayed",
+    "eegStatus": "Normal",
+    "mriStatus": "Unknown",
+    "diagnosisAgeMonths": 22,
+    "delays": [
+      "Cognitive"
+    ],
+    "adosScore": 8,
+    "adirScore": null
+  },
+  {
+    "caseId": "ASD-121",
+    "gender": "Male",
+    "pregnancyType": "Natural",
+    "plurality": "Single",
+    "pregnancyEvolution": "Normal",
+    "languageLevel": "Delayed",
+    "eegStatus": "Normal",
+    "mriStatus": "Unknown",
+    "diagnosisAgeMonths": 36,
+    "delays": [
+      "Cognitive"
+    ],
+    "adosScore": 24,
+    "adirScore": null
+  },
+  {
+    "caseId": "ASD-122",
+    "gender": "Female",
+    "pregnancyType": "Natural",
+    "plurality": "Single",
+    "pregnancyEvolution": "Normal",
+    "languageLevel": "Delayed",
+    "eegStatus": "Unknown",
+    "mriStatus": "Unknown",
+    "diagnosisAgeMonths": 18,
+    "delays": [
+      "Cognitive"
+    ],
+    "adosScore": 15,
+    "adirScore": 18
+  },
+  {
+    "caseId": "ASD-123",
+    "gender": "Male",
+    "pregnancyType": "Natural",
+    "plurality": "Single",
+    "pregnancyEvolution": "Normal",
+    "languageLevel": "Delayed",
+    "eegStatus": "Normal",
+    "mriStatus": "Normal",
+    "diagnosisAgeMonths": 30,
+    "delays": [
+      "Cognitive"
+    ],
+    "adosScore": 12,
+    "adirScore": null
+  },
+  {
+    "caseId": "ASD-124",
+    "gender": "Male",
+    "pregnancyType": "Natural",
+    "plurality": "Single",
+    "pregnancyEvolution": "Normal",
+    "languageLevel": "Delayed",
+    "eegStatus": "Normal",
+    "mriStatus": "Unknown",
+    "diagnosisAgeMonths": 36,
+    "delays": [
+      "Global"
+    ],
+    "adosScore": 18,
+    "adirScore": null
+  },
+  {
+    "caseId": "ASD-125",
+    "gender": "Male",
+    "pregnancyType": "Natural",
+    "plurality": "Single",
+    "pregnancyEvolution": "Normal",
+    "languageLevel": "Delayed",
+    "eegStatus": "Normal",
+    "mriStatus": "Unknown",
+    "diagnosisAgeMonths": 24,
+    "delays": [
+      "Cognitive"
+    ],
+    "adosScore": 17,
+    "adirScore": null
+  },
+  {
+    "caseId": "ASD-126",
+    "gender": "Female",
+    "pregnancyType": "Natural",
+    "plurality": "Single",
+    "pregnancyEvolution": "Normal",
+    "languageLevel": "Delayed",
+    "eegStatus": "Unknown",
+    "mriStatus": "Unknown",
+    "diagnosisAgeMonths": 48,
+    "delays": [
+      "Cognitive"
+    ],
+    "adosScore": null,
+    "adirScore": 25
+  },
+  {
+    "caseId": "ASD-127",
+    "gender": "Male",
+    "pregnancyType": "Natural",
+    "plurality": "Single",
+    "pregnancyEvolution": "Normal",
+    "languageLevel": "Delayed",
+    "eegStatus": "Unknown",
+    "mriStatus": "Unknown",
+    "diagnosisAgeMonths": 36,
+    "delays": [
+      "Global"
+    ],
+    "adosScore": 15,
+    "adirScore": null
+  },
+  {
+    "caseId": "ASD-128",
+    "gender": "Male",
+    "pregnancyType": "Natural",
+    "plurality": "Single",
+    "pregnancyEvolution": "Normal",
+    "languageLevel": "Delayed",
+    "eegStatus": "Unknown",
+    "mriStatus": "Unknown",
+    "diagnosisAgeMonths": 14,
+    "delays": [
+      "Global"
+    ],
+    "adosScore": 15,
+    "adirScore": null
+  },
+  {
+    "caseId": "ASD-129",
+    "gender": "Male",
+    "pregnancyType": "Natural",
+    "plurality": "Single",
+    "pregnancyEvolution": "Normal",
+    "languageLevel": "Delayed",
+    "eegStatus": "Normal",
+    "mriStatus": "Unknown",
+    "diagnosisAgeMonths": 24,
+    "delays": [
+      "Cognitive"
+    ],
+    "adosScore": 10,
+    "adirScore": null
+  },
+  {
+    "caseId": "ASD-130",
+    "gender": "Male",
+    "pregnancyType": "Natural",
+    "plurality": "Single",
+    "pregnancyEvolution": "Normal",
+    "languageLevel": "Delayed",
+    "eegStatus": "Normal",
+    "mriStatus": "Unknown",
+    "diagnosisAgeMonths": null,
+    "delays": [
+      "Cognitive"
+    ],
+    "adosScore": 17,
+    "adirScore": null
+  },
+  {
+    "caseId": "ASD-131",
+    "gender": "Male",
+    "pregnancyType": "Natural",
+    "plurality": "Single",
+    "pregnancyEvolution": "Normal",
+    "languageLevel": "Absent",
+    "eegStatus": "Unknown",
+    "mriStatus": "Unknown",
+    "diagnosisAgeMonths": 24,
+    "delays": [
+      "Global"
+    ],
+    "adosScore": 11,
+    "adirScore": null
+  },
+  {
+    "caseId": "ASD-132",
+    "gender": "Male",
+    "pregnancyType": "Natural",
+    "plurality": "Single",
+    "pregnancyEvolution": "Normal",
+    "languageLevel": "Absent",
+    "eegStatus": "Unknown",
+    "mriStatus": "Unknown",
+    "diagnosisAgeMonths": 20,
+    "delays": [
+      "Global"
+    ],
+    "adosScore": null,
+    "adirScore": 45
+  },
+  {
+    "caseId": "ASD-133",
+    "gender": "Male",
+    "pregnancyType": "Natural",
+    "plurality": "Single",
+    "pregnancyEvolution": "Normal",
+    "languageLevel": "Delayed",
+    "eegStatus": "Unknown",
+    "mriStatus": "Unknown",
+    "diagnosisAgeMonths": 48,
+    "delays": [
+      "Global"
+    ],
+    "adosScore": 15,
+    "adirScore": null
+  },
+  {
+    "caseId": "ASD-134",
+    "gender": "Male",
+    "pregnancyType": "Natural",
+    "plurality": "Single",
+    "pregnancyEvolution": "Normal",
+    "languageLevel": "Delayed",
+    "eegStatus": "Unknown",
+    "mriStatus": "Unknown",
+    "diagnosisAgeMonths": 48,
+    "delays": [
+      "Cognitive"
+    ],
+    "adosScore": null,
+    "adirScore": 29
+  },
+  {
+    "caseId": "ASD-135",
+    "gender": "Male",
+    "pregnancyType": "Natural",
+    "plurality": "Single",
+    "pregnancyEvolution": "Normal",
+    "languageLevel": "Delayed",
+    "eegStatus": "Normal",
+    "mriStatus": "Anomaly",
+    "diagnosisAgeMonths": 36,
+    "delays": [
+      "Global"
+    ],
+    "adosScore": 24,
+    "adirScore": null
+  },
+  {
+    "caseId": "ASD-136",
+    "gender": "Male",
+    "pregnancyType": "Natural",
+    "plurality": "Single",
+    "pregnancyEvolution": "Abnormal",
+    "languageLevel": "Delayed",
+    "eegStatus": "Normal",
+    "mriStatus": "Normal",
+    "diagnosisAgeMonths": 48,
+    "delays": [
+      "Cognitive"
+    ],
+    "adosScore": 10,
+    "adirScore": null
+  },
+  {
+    "caseId": "ASD-137",
+    "gender": "Female",
+    "pregnancyType": "Natural",
+    "plurality": "Single",
+    "pregnancyEvolution": "Normal",
+    "languageLevel": "Delayed",
+    "eegStatus": "Bilateral",
+    "mriStatus": "Anomaly",
+    "diagnosisAgeMonths": 24,
+    "delays": [
+      "Global"
+    ],
+    "adosScore": 18,
+    "adirScore": null
+  },
+  {
+    "caseId": "ASD-138",
+    "gender": "Male",
+    "pregnancyType": "Natural",
+    "plurality": "Single",
+    "pregnancyEvolution": "Normal",
+    "languageLevel": "Delayed",
+    "eegStatus": "Normal",
+    "mriStatus": "Unknown",
+    "diagnosisAgeMonths": 30,
+    "delays": [
+      "Cognitive"
+    ],
+    "adosScore": 15,
+    "adirScore": null
+  },
+  {
+    "caseId": "ASD-139",
+    "gender": "Male",
+    "pregnancyType": "Natural",
+    "plurality": "Single",
+    "pregnancyEvolution": "Normal",
+    "languageLevel": "Delayed",
+    "eegStatus": "Normal",
+    "mriStatus": "Unknown",
+    "diagnosisAgeMonths": 48,
+    "delays": [
+      "Cognitive"
+    ],
+    "adosScore": null,
+    "adirScore": 19
+  },
+  {
+    "caseId": "ASD-140",
+    "gender": "Male",
+    "pregnancyType": "Natural",
+    "plurality": "Single",
+    "pregnancyEvolution": "Normal",
+    "languageLevel": "Delayed",
+    "eegStatus": "Normal",
+    "mriStatus": "Unknown",
+    "diagnosisAgeMonths": 12,
+    "delays": [
+      "Global"
+    ],
+    "adosScore": null,
+    "adirScore": 14
+  },
+  {
+    "caseId": "ASD-141",
+    "gender": "Male",
+    "pregnancyType": "Natural",
+    "plurality": "Single",
+    "pregnancyEvolution": "Normal",
+    "languageLevel": "Absent",
+    "eegStatus": "Normal",
+    "mriStatus": "Anomaly",
+    "diagnosisAgeMonths": 24,
+    "delays": [
+      "Global"
+    ],
+    "adosScore": 26,
+    "adirScore": 40
+  },
+  {
+    "caseId": "ASD-142",
+    "gender": "Female",
+    "pregnancyType": "Natural",
+    "plurality": "Single",
+    "pregnancyEvolution": "Normal",
+    "languageLevel": "Delayed",
+    "eegStatus": "Unknown",
+    "mriStatus": "Unknown",
+    "diagnosisAgeMonths": 24,
+    "delays": [
+      "Cognitive"
+    ],
+    "adosScore": 14,
+    "adirScore": null
+  },
+  {
+    "caseId": "ASD-143",
+    "gender": "Male",
+    "pregnancyType": "Natural",
+    "plurality": "Single",
+    "pregnancyEvolution": "Normal",
+    "languageLevel": "Functional",
+    "eegStatus": "Normal",
+    "mriStatus": "Normal",
+    "diagnosisAgeMonths": 12,
+    "delays": [],
+    "adosScore": 10,
+    "adirScore": null
+  },
+  {
+    "caseId": "ASD-144",
+    "gender": "Male",
+    "pregnancyType": "Natural",
+    "plurality": "Single",
+    "pregnancyEvolution": "Normal",
+    "languageLevel": "Absent",
+    "eegStatus": "Bilateral",
+    "mriStatus": "Normal",
+    "diagnosisAgeMonths": 24,
+    "delays": [
+      "Cognitive"
+    ],
+    "adosScore": null,
+    "adirScore": 18
+  },
+  {
+    "caseId": "ASD-145",
+    "gender": "Female",
+    "pregnancyType": "Natural",
+    "plurality": "Single",
+    "pregnancyEvolution": "Abnormal",
+    "languageLevel": "Absent",
+    "eegStatus": "Focal",
+    "mriStatus": "Normal",
+    "diagnosisAgeMonths": 24,
+    "delays": [
+      "Cognitive"
+    ],
+    "adosScore": null,
+    "adirScore": 35
+  },
+  {
+    "caseId": "ASD-146",
+    "gender": "Male",
+    "pregnancyType": "Natural",
+    "plurality": "Single",
+    "pregnancyEvolution": "Abnormal",
+    "languageLevel": "Absent",
+    "eegStatus": "Bilateral",
+    "mriStatus": "Unknown",
+    "diagnosisAgeMonths": 36,
+    "delays": [
+      "Global"
+    ],
+    "adosScore": 14,
+    "adirScore": null
+  },
+  {
+    "caseId": "ASD-147",
+    "gender": "Female",
+    "pregnancyType": "Natural",
+    "plurality": "Single",
+    "pregnancyEvolution": "Abnormal",
+    "languageLevel": "Delayed",
+    "eegStatus": "Unknown",
+    "mriStatus": "Unknown",
+    "diagnosisAgeMonths": 24,
+    "delays": [
+      "Global"
+    ],
+    "adosScore": null,
+    "adirScore": 20
+  },
+  {
+    "caseId": "ASD-148",
+    "gender": "Male",
+    "pregnancyType": "Natural",
+    "plurality": "Single",
+    "pregnancyEvolution": "Normal",
+    "languageLevel": "Delayed",
+    "eegStatus": "Bilateral",
+    "mriStatus": "Anomaly",
+    "diagnosisAgeMonths": 48,
+    "delays": [
+      "Global"
+    ],
+    "adosScore": 13,
+    "adirScore": null
+  },
+  {
+    "caseId": "ASD-149",
+    "gender": "Female",
+    "pregnancyType": "Natural",
+    "plurality": "Single",
+    "pregnancyEvolution": "Abnormal",
+    "languageLevel": "Absent",
+    "eegStatus": "Unknown",
+    "mriStatus": "Anomaly",
+    "diagnosisAgeMonths": null,
+    "delays": [
+      "Global"
+    ],
+    "adosScore": 18,
+    "adirScore": null
+  },
+  {
+    "caseId": "ASD-150",
+    "gender": "Male",
+    "pregnancyType": "Natural",
+    "plurality": "Single",
+    "pregnancyEvolution": "Normal",
+    "languageLevel": "Delayed",
+    "eegStatus": "Normal",
+    "mriStatus": "Unknown",
+    "diagnosisAgeMonths": 31,
+    "delays": [
+      "Cognitive"
+    ],
+    "adosScore": null,
+    "adirScore": 20
+  },
+  {
+    "caseId": "ASD-151",
+    "gender": "Male",
+    "pregnancyType": "Natural",
+    "plurality": "Single",
+    "pregnancyEvolution": "Normal",
+    "languageLevel": "Delayed",
+    "eegStatus": "Normal",
+    "mriStatus": "Unknown",
+    "diagnosisAgeMonths": 18,
+    "delays": [
+      "Cognitive"
+    ],
+    "adosScore": null,
+    "adirScore": 25
+  },
+  {
+    "caseId": "ASD-152",
+    "gender": "Male",
+    "pregnancyType": "Natural",
+    "plurality": "Single",
+    "pregnancyEvolution": "Normal",
+    "languageLevel": "Absent",
+    "eegStatus": "Bilateral",
+    "mriStatus": "NA",
+    "diagnosisAgeMonths": 36,
+    "delays": [],
+    "adosScore": 23,
+    "adirScore": 44
+  },
+  {
+    "caseId": "ASD-153",
+    "gender": "Male",
+    "pregnancyType": "Natural",
+    "plurality": "Single",
+    "pregnancyEvolution": "Normal",
+    "languageLevel": "Absent",
+    "eegStatus": "Normal",
+    "mriStatus": "Unknown",
+    "diagnosisAgeMonths": 32,
+    "delays": [
+      "Cognitive"
+    ],
+    "adosScore": null,
+    "adirScore": 40
+  },
+  {
+    "caseId": "ASD-154",
+    "gender": "Male",
+    "pregnancyType": "Natural",
+    "plurality": "Single",
+    "pregnancyEvolution": "Normal",
+    "languageLevel": "Absent",
+    "eegStatus": "Normal",
+    "mriStatus": "Normal",
+    "diagnosisAgeMonths": null,
+    "delays": [
+      "Global"
+    ],
+    "adosScore": null,
+    "adirScore": 32
+  },
+  {
+    "caseId": "ASD-155",
+    "gender": "Male",
+    "pregnancyType": "Natural",
+    "plurality": "Single",
+    "pregnancyEvolution": "Normal",
+    "languageLevel": "Absent",
+    "eegStatus": "Normal",
+    "mriStatus": "Anomaly",
+    "diagnosisAgeMonths": 24,
+    "delays": [
+      "Cognitive"
+    ],
+    "adosScore": null,
+    "adirScore": 34
+  },
+  {
+    "caseId": "ASD-156",
+    "gender": "Female",
+    "pregnancyType": "Natural",
+    "plurality": "Single",
+    "pregnancyEvolution": "Normal",
+    "languageLevel": "Delayed",
+    "eegStatus": "Unknown",
+    "mriStatus": "Anomaly",
+    "diagnosisAgeMonths": 48,
+    "delays": [
+      "Cognitive"
+    ],
+    "adosScore": null,
+    "adirScore": 39
+  },
+  {
+    "caseId": "ASD-157",
+    "gender": "Male",
+    "pregnancyType": "Natural",
+    "plurality": "Single",
+    "pregnancyEvolution": "Normal",
+    "languageLevel": "Functional",
+    "eegStatus": "Unknown",
+    "mriStatus": "Unknown",
+    "diagnosisAgeMonths": 144,
+    "delays": [],
+    "adosScore": 8,
+    "adirScore": null
+  },
+  {
+    "caseId": "ASD-158",
+    "gender": "Male",
+    "pregnancyType": "Natural",
+    "plurality": "Twin",
+    "pregnancyEvolution": "Unknown",
+    "languageLevel": "Absent",
+    "eegStatus": "Unknown",
+    "mriStatus": "Unknown",
+    "diagnosisAgeMonths": 20,
+    "delays": [
+      "Cognitive"
+    ],
+    "adosScore": 19,
+    "adirScore": null
+  },
+  {
+    "caseId": "ASD-159",
+    "gender": "Female",
+    "pregnancyType": "Natural",
+    "plurality": "Single",
+    "pregnancyEvolution": "Normal",
+    "languageLevel": "Absent",
+    "eegStatus": "Normal",
+    "mriStatus": "Unknown",
+    "diagnosisAgeMonths": 42,
+    "delays": [
+      "Global"
+    ],
+    "adosScore": null,
+    "adirScore": 47
+  },
+  {
+    "caseId": "ASD-160",
+    "gender": "Male",
+    "pregnancyType": "Natural",
+    "plurality": "Single",
+    "pregnancyEvolution": "Normal",
+    "languageLevel": "Absent",
+    "eegStatus": "Bilateral",
+    "mriStatus": "Anomaly",
+    "diagnosisAgeMonths": null,
+    "delays": [
+      "Global"
+    ],
+    "adosScore": 17,
+    "adirScore": null
+  },
+  {
+    "caseId": "ASD-161",
+    "gender": "Male",
+    "pregnancyType": "Natural",
+    "plurality": "Single",
+    "pregnancyEvolution": "Normal",
+    "languageLevel": "Delayed",
+    "eegStatus": "Normal",
+    "mriStatus": "Normal",
+    "diagnosisAgeMonths": 42,
+    "delays": [
+      "Cognitive"
+    ],
+    "adosScore": null,
+    "adirScore": 33
+  },
+  {
+    "caseId": "ASD-162",
+    "gender": "Male",
+    "pregnancyType": "Natural",
+    "plurality": "Single",
+    "pregnancyEvolution": "Normal",
+    "languageLevel": "Delayed",
+    "eegStatus": "Normal",
+    "mriStatus": "Unknown",
+    "diagnosisAgeMonths": null,
+    "delays": [
+      "Cognitive"
+    ],
+    "adosScore": 15,
+    "adirScore": null
+  },
+  {
+    "caseId": "ASD-163",
+    "gender": "Male",
+    "pregnancyType": "Natural",
+    "plurality": "Single",
+    "pregnancyEvolution": "Normal",
+    "languageLevel": "Absent",
+    "eegStatus": "Normal",
+    "mriStatus": "Unknown",
+    "diagnosisAgeMonths": 24,
+    "delays": [
+      "Global"
+    ],
+    "adosScore": 23,
+    "adirScore": null
+  },
+  {
+    "caseId": "ASD-164",
+    "gender": "Male",
+    "pregnancyType": "Natural",
+    "plurality": "Single",
+    "pregnancyEvolution": "Normal",
+    "languageLevel": "Absent",
+    "eegStatus": "Unknown",
+    "mriStatus": "Anomaly",
+    "diagnosisAgeMonths": 14,
+    "delays": [
+      "Global"
+    ],
+    "adosScore": 18,
+    "adirScore": null
+  },
+  {
+    "caseId": "ASD-165",
+    "gender": "Female",
+    "pregnancyType": "Natural",
+    "plurality": "Single",
+    "pregnancyEvolution": "Normal",
+    "languageLevel": "Delayed",
+    "eegStatus": "Unknown",
+    "mriStatus": "Unknown",
+    "diagnosisAgeMonths": 14,
+    "delays": [
+      "Cognitive"
+    ],
+    "adosScore": 18,
+    "adirScore": null
+  },
+  {
+    "caseId": "ASD-166",
+    "gender": "Male",
+    "pregnancyType": "Natural",
+    "plurality": "Single",
+    "pregnancyEvolution": "Normal",
+    "languageLevel": "Absent",
+    "eegStatus": "Unknown",
+    "mriStatus": "Anomaly",
+    "diagnosisAgeMonths": 14,
+    "delays": [
+      "Global"
+    ],
+    "adosScore": 18,
+    "adirScore": null
+  },
+  {
+    "caseId": "ASD-167",
+    "gender": "Female",
+    "pregnancyType": "Natural",
+    "plurality": "Single",
+    "pregnancyEvolution": "Normal",
+    "languageLevel": "Delayed",
+    "eegStatus": "Normal",
+    "mriStatus": "Anomaly",
+    "diagnosisAgeMonths": 36,
+    "delays": [
+      "Cognitive"
+    ],
+    "adosScore": 15,
+    "adirScore": null
+  },
+  {
+    "caseId": "ASD-168",
+    "gender": "Male",
+    "pregnancyType": "Natural",
+    "plurality": "Single",
+    "pregnancyEvolution": "Normal",
+    "languageLevel": "Absent",
+    "eegStatus": "Normal",
+    "mriStatus": "Unknown",
+    "diagnosisAgeMonths": 36,
+    "delays": [
+      "Cognitive"
+    ],
+    "adosScore": 13,
+    "adirScore": null
+  },
+  {
+    "caseId": "ASD-169",
+    "gender": "Male",
+    "pregnancyType": "Natural",
+    "plurality": "Single",
+    "pregnancyEvolution": "Normal",
+    "languageLevel": "Delayed",
+    "eegStatus": "Normal",
+    "mriStatus": "Unknown",
+    "diagnosisAgeMonths": 36,
+    "delays": [
+      "Global"
+    ],
+    "adosScore": 16,
+    "adirScore": null
+  },
+  {
+    "caseId": "ASD-170",
+    "gender": "Male",
+    "pregnancyType": "Natural",
+    "plurality": "Single",
+    "pregnancyEvolution": "Normal",
+    "languageLevel": "Delayed",
+    "eegStatus": "Unknown",
+    "mriStatus": "Unknown",
+    "diagnosisAgeMonths": 42,
+    "delays": [
+      "Cognitive"
+    ],
+    "adosScore": 19,
+    "adirScore": null
+  },
+  {
+    "caseId": "ASD-171",
+    "gender": "Female",
+    "pregnancyType": "Natural",
+    "plurality": "Single",
+    "pregnancyEvolution": "Normal",
+    "languageLevel": "Delayed",
+    "eegStatus": "Normal",
+    "mriStatus": "Normal",
+    "diagnosisAgeMonths": 60,
+    "delays": [
+      "Cognitive"
+    ],
+    "adosScore": null,
+    "adirScore": 57
+  },
+  {
+    "caseId": "ASD-172",
+    "gender": "Female",
+    "pregnancyType": "Natural",
+    "plurality": "Single",
+    "pregnancyEvolution": "Normal",
+    "languageLevel": "Delayed",
+    "eegStatus": "Normal",
+    "mriStatus": "Normal",
+    "diagnosisAgeMonths": 38,
+    "delays": [
+      "Cognitive"
+    ],
+    "adosScore": null,
+    "adirScore": 33
+  },
+  {
+    "caseId": "ASD-173",
+    "gender": "Male",
+    "pregnancyType": "IVF",
+    "plurality": "Twin",
+    "pregnancyEvolution": "Normal",
+    "languageLevel": "Delayed",
+    "eegStatus": "Normal",
+    "mriStatus": "Unknown",
+    "diagnosisAgeMonths": 30,
+    "delays": [
+      "Cognitive"
+    ],
+    "adosScore": 12,
+    "adirScore": null
+  },
+  {
+    "caseId": "ASD-174",
+    "gender": "Male",
+    "pregnancyType": "Natural",
+    "plurality": "Single",
+    "pregnancyEvolution": "Normal",
+    "languageLevel": "Delayed",
+    "eegStatus": "Focal",
+    "mriStatus": "Normal",
+    "diagnosisAgeMonths": 36,
+    "delays": [
+      "Cognitive"
+    ],
+    "adosScore": 16,
+    "adirScore": null
+  },
+  {
+    "caseId": "ASD-175",
+    "gender": "Male",
+    "pregnancyType": "Natural",
+    "plurality": "Single",
+    "pregnancyEvolution": "Normal",
+    "languageLevel": "Delayed",
+    "eegStatus": "Normal",
+    "mriStatus": "Unknown",
+    "diagnosisAgeMonths": 3,
+    "delays": [
+      "Cognitive"
+    ],
+    "adosScore": 17,
+    "adirScore": null
+  },
+  {
+    "caseId": "ASD-176",
+    "gender": "Male",
+    "pregnancyType": "Natural",
+    "plurality": "Single",
+    "pregnancyEvolution": "Abnormal",
+    "languageLevel": "Delayed",
+    "eegStatus": "Focal",
+    "mriStatus": "Unknown",
+    "diagnosisAgeMonths": 30,
+    "delays": [
+      "Cognitive"
+    ],
+    "adosScore": 15,
+    "adirScore": null
+  },
+  {
+    "caseId": "ASD-177",
+    "gender": "Female",
+    "pregnancyType": "Natural",
+    "plurality": "Single",
+    "pregnancyEvolution": "Normal",
+    "languageLevel": "Delayed",
+    "eegStatus": "Bilateral",
+    "mriStatus": "Unknown",
+    "diagnosisAgeMonths": 36,
+    "delays": [
+      "Cognitive"
+    ],
+    "adosScore": 10,
+    "adirScore": null
+  },
+  {
+    "caseId": "ASD-178",
+    "gender": "Male",
+    "pregnancyType": "Natural",
+    "plurality": "Single",
+    "pregnancyEvolution": "Normal",
+    "languageLevel": "Delayed",
+    "eegStatus": "Normal",
+    "mriStatus": "Normal",
+    "diagnosisAgeMonths": 36,
+    "delays": [
+      "Cognitive"
+    ],
+    "adosScore": 9,
+    "adirScore": null
+  },
+  {
+    "caseId": "ASD-179",
+    "gender": "Female",
+    "pregnancyType": "Natural",
+    "plurality": "Single",
+    "pregnancyEvolution": "Normal",
+    "languageLevel": "Absent",
+    "eegStatus": "Unknown",
+    "mriStatus": "Unknown",
+    "diagnosisAgeMonths": 15,
+    "delays": [
+      "Global"
+    ],
+    "adosScore": null,
+    "adirScore": 25
+  },
+  {
+    "caseId": "ASD-180",
+    "gender": "Male",
+    "pregnancyType": "Natural",
+    "plurality": "Single",
+    "pregnancyEvolution": "Normal",
+    "languageLevel": "Absent",
+    "eegStatus": "Normal",
+    "mriStatus": "Normal",
+    "diagnosisAgeMonths": 36,
+    "delays": [
+      "Cognitive"
+    ],
+    "adosScore": null,
+    "adirScore": 40
+  },
+  {
+    "caseId": "ASD-181",
+    "gender": "Male",
+    "pregnancyType": "Natural",
+    "plurality": "Single",
+    "pregnancyEvolution": "Normal",
+    "languageLevel": "Delayed",
+    "eegStatus": "Normal",
+    "mriStatus": "Unknown",
+    "diagnosisAgeMonths": 24,
+    "delays": [
+      "Global"
+    ],
+    "adosScore": 13,
+    "adirScore": null
+  },
+  {
+    "caseId": "ASD-182",
+    "gender": "Male",
+    "pregnancyType": "IVF",
+    "plurality": "Single",
+    "pregnancyEvolution": "Abnormal",
+    "languageLevel": "Delayed",
+    "eegStatus": "Normal",
+    "mriStatus": "Unknown",
+    "diagnosisAgeMonths": 20,
+    "delays": [
+      "Global"
+    ],
+    "adosScore": 8,
+    "adirScore": 18
+  },
+  {
+    "caseId": "ASD-183",
+    "gender": "Male",
+    "pregnancyType": "Natural",
+    "plurality": "Single",
+    "pregnancyEvolution": "Normal",
+    "languageLevel": "Absent",
+    "eegStatus": "Normal",
+    "mriStatus": "Unknown",
+    "diagnosisAgeMonths": 3,
+    "delays": [
+      "Cognitive"
+    ],
+    "adosScore": null,
+    "adirScore": 35
+  },
+  {
+    "caseId": "ASD-184",
+    "gender": "Male",
+    "pregnancyType": "IVF",
+    "plurality": "Single",
+    "pregnancyEvolution": "Normal",
+    "languageLevel": "Delayed",
+    "eegStatus": "Unknown",
+    "mriStatus": "Normal",
+    "diagnosisAgeMonths": 20,
+    "delays": [
+      "Cognitive"
+    ],
+    "adosScore": 10,
+    "adirScore": null
+  },
+  {
+    "caseId": "ASD-185",
+    "gender": "Male",
+    "pregnancyType": "Natural",
+    "plurality": "Single",
+    "pregnancyEvolution": "Normal",
+    "languageLevel": "Absent",
+    "eegStatus": "Normal",
+    "mriStatus": "Unknown",
+    "diagnosisAgeMonths": 20,
+    "delays": [
+      "Cognitive"
+    ],
+    "adosScore": null,
+    "adirScore": 33
+  },
+  {
+    "caseId": "ASD-186",
+    "gender": "Female",
+    "pregnancyType": "Natural",
+    "plurality": "Single",
+    "pregnancyEvolution": "Abnormal",
+    "languageLevel": "Delayed",
+    "eegStatus": "Normal",
+    "mriStatus": "Unknown",
+    "diagnosisAgeMonths": 20,
+    "delays": [
+      "Cognitive"
+    ],
+    "adosScore": 24,
+    "adirScore": 36
+  },
+  {
+    "caseId": "ASD-187",
+    "gender": "Female",
+    "pregnancyType": "Natural",
+    "plurality": "Single",
+    "pregnancyEvolution": "Normal",
+    "languageLevel": "Delayed",
+    "eegStatus": "Normal",
+    "mriStatus": "Unknown",
+    "diagnosisAgeMonths": 36,
+    "delays": [
+      "Global"
+    ],
+    "adosScore": 27,
+    "adirScore": 52
+  },
+  {
+    "caseId": "ASD-188",
+    "gender": "Female",
+    "pregnancyType": "Natural",
+    "plurality": "Single",
+    "pregnancyEvolution": "Normal",
+    "languageLevel": "Delayed",
+    "eegStatus": "Normal",
+    "mriStatus": "Unknown",
+    "diagnosisAgeMonths": 36,
+    "delays": [
+      "Cognitive"
+    ],
+    "adosScore": 20,
+    "adirScore": 35
+  },
+  {
+    "caseId": "ASD-189",
+    "gender": "Male",
+    "pregnancyType": "Natural",
+    "plurality": "Single",
+    "pregnancyEvolution": "Normal",
+    "languageLevel": "Absent",
+    "eegStatus": "Unknown",
+    "mriStatus": "Normal",
+    "diagnosisAgeMonths": 24,
+    "delays": [
+      "Global"
+    ],
+    "adosScore": 28,
+    "adirScore": null
+  },
+  {
+    "caseId": "ASD-190",
+    "gender": "Male",
+    "pregnancyType": "IVF",
+    "plurality": "Single",
+    "pregnancyEvolution": "Normal",
+    "languageLevel": "Absent",
+    "eegStatus": "Normal",
+    "mriStatus": "Unknown",
+    "diagnosisAgeMonths": 16,
+    "delays": [
+      "Cognitive"
+    ],
+    "adosScore": null,
+    "adirScore": 11
+  },
+  {
+    "caseId": "ASD-191",
+    "gender": "Male",
+    "pregnancyType": "Natural",
+    "plurality": "Single",
+    "pregnancyEvolution": "Normal",
+    "languageLevel": "Absent",
+    "eegStatus": "Unknown",
+    "mriStatus": "Unknown",
+    "diagnosisAgeMonths": 26,
+    "delays": [
+      "Cognitive"
+    ],
+    "adosScore": 15,
+    "adirScore": null
+  },
+  {
+    "caseId": "ASD-192",
+    "gender": "Male",
+    "pregnancyType": "Natural",
+    "plurality": "Single",
+    "pregnancyEvolution": "Normal",
+    "languageLevel": "Delayed",
+    "eegStatus": "Unknown",
+    "mriStatus": "Unknown",
+    "diagnosisAgeMonths": 20,
+    "delays": [
+      "Cognitive"
+    ],
+    "adosScore": 13,
+    "adirScore": null
+  },
+  {
+    "caseId": "ASD-193",
+    "gender": "Male",
+    "pregnancyType": "Natural",
+    "plurality": "Single",
+    "pregnancyEvolution": "Normal",
+    "languageLevel": "Absent",
+    "eegStatus": "Normal",
+    "mriStatus": "Normal",
+    "diagnosisAgeMonths": 24,
+    "delays": [
+      "Global"
+    ],
+    "adosScore": null,
+    "adirScore": 18
+  },
+  {
+    "caseId": "ASD-194",
+    "gender": "Male",
+    "pregnancyType": "Natural",
+    "plurality": "Single",
+    "pregnancyEvolution": "Normal",
+    "languageLevel": "Delayed",
+    "eegStatus": "Focal",
+    "mriStatus": "Unknown",
+    "diagnosisAgeMonths": 26,
+    "delays": [
+      "Global"
+    ],
+    "adosScore": null,
+    "adirScore": 20
+  },
+  {
+    "caseId": "ASD-195",
+    "gender": "Female",
+    "pregnancyType": "Natural",
+    "plurality": "Single",
+    "pregnancyEvolution": "Normal",
+    "languageLevel": "Absent",
+    "eegStatus": "Unknown",
+    "mriStatus": "Anomaly",
+    "diagnosisAgeMonths": 27,
+    "delays": [
+      "Global"
+    ],
+    "adosScore": null,
+    "adirScore": 45
+  },
+  {
+    "caseId": "ASD-196",
+    "gender": "Female",
+    "pregnancyType": "Natural",
+    "plurality": "Single",
+    "pregnancyEvolution": "Abnormal",
+    "languageLevel": "Absent",
+    "eegStatus": "Bilateral",
+    "mriStatus": "Normal",
+    "diagnosisAgeMonths": 36,
+    "delays": [
+      "Global"
+    ],
+    "adosScore": 8,
+    "adirScore": null
+  },
+  {
+    "caseId": "ASD-197",
+    "gender": "Male",
+    "pregnancyType": "Natural",
+    "plurality": "Single",
+    "pregnancyEvolution": "Normal",
+    "languageLevel": "Delayed",
+    "eegStatus": "Focal",
+    "mriStatus": "Anomaly",
+    "diagnosisAgeMonths": 42,
+    "delays": [
+      "Cognitive"
+    ],
+    "adosScore": 10,
+    "adirScore": null
+  },
+  {
+    "caseId": "ASD-198",
+    "gender": "Male",
+    "pregnancyType": "Natural",
+    "plurality": "Single",
+    "pregnancyEvolution": "Normal",
+    "languageLevel": "Delayed",
+    "eegStatus": "Normal",
+    "mriStatus": "Unknown",
+    "diagnosisAgeMonths": 28,
+    "delays": [
+      "Cognitive"
+    ],
+    "adosScore": 17,
+    "adirScore": null
+  },
+  {
+    "caseId": "ASD-199",
+    "gender": "Male",
+    "pregnancyType": "Natural",
+    "plurality": "Single",
+    "pregnancyEvolution": "Abnormal",
+    "languageLevel": "Delayed",
+    "eegStatus": "Unknown",
+    "mriStatus": "Unknown",
+    "diagnosisAgeMonths": 14,
+    "delays": [
+      "Cognitive"
+    ],
+    "adosScore": 19,
+    "adirScore": null
+  },
+  {
+    "caseId": "ASD-200",
+    "gender": "Male",
+    "pregnancyType": "Natural",
+    "plurality": "Single",
+    "pregnancyEvolution": "Normal",
+    "languageLevel": "Delayed",
+    "eegStatus": "Focal",
+    "mriStatus": "Unknown",
+    "diagnosisAgeMonths": 36,
+    "delays": [
+      "Cognitive"
+    ],
+    "adosScore": null,
+    "adirScore": 43
+  },
+  {
+    "caseId": "ASD-201",
+    "gender": "Male",
+    "pregnancyType": "Natural",
+    "plurality": "Single",
+    "pregnancyEvolution": "Normal",
+    "languageLevel": "Delayed",
+    "eegStatus": "Unknown",
+    "mriStatus": "Unknown",
+    "diagnosisAgeMonths": 48,
+    "delays": [
+      "Cognitive"
+    ],
+    "adosScore": 16,
+    "adirScore": null
+  },
+  {
+    "caseId": "ASD-202",
+    "gender": "Male",
+    "pregnancyType": "Natural",
+    "plurality": "Twin",
+    "pregnancyEvolution": "Abnormal",
+    "languageLevel": "Delayed",
+    "eegStatus": "Normal",
+    "mriStatus": "Unknown",
+    "diagnosisAgeMonths": 31,
+    "delays": [
+      "Cognitive"
+    ],
+    "adosScore": 21,
+    "adirScore": null
+  },
+  {
+    "caseId": "ASD-203",
+    "gender": "Male",
+    "pregnancyType": "Natural",
+    "plurality": "Twin",
+    "pregnancyEvolution": "Abnormal",
+    "languageLevel": "Delayed",
+    "eegStatus": "Normal",
+    "mriStatus": "Unknown",
+    "diagnosisAgeMonths": 31,
+    "delays": [
+      "Cognitive"
+    ],
+    "adosScore": 17,
+    "adirScore": 34
+  },
+  {
+    "caseId": "ASD-204",
+    "gender": "Female",
+    "pregnancyType": "Natural",
+    "plurality": "Single",
+    "pregnancyEvolution": "Normal",
+    "languageLevel": "Delayed",
+    "eegStatus": "Unknown",
+    "mriStatus": "Unknown",
+    "diagnosisAgeMonths": 38,
+    "delays": [
+      "Cognitive"
+    ],
+    "adosScore": 16,
+    "adirScore": null
+  },
+  {
+    "caseId": "ASD-205",
+    "gender": "Male",
+    "pregnancyType": "IVF",
+    "plurality": "Twin",
+    "pregnancyEvolution": "Normal",
+    "languageLevel": "Absent",
+    "eegStatus": "Unknown",
+    "mriStatus": "Unknown",
+    "diagnosisAgeMonths": 20,
+    "delays": [
+      "Cognitive"
+    ],
+    "adosScore": 19,
+    "adirScore": null
+  },
+  {
+    "caseId": "ASD-206",
+    "gender": "Female",
+    "pregnancyType": "IVF",
+    "plurality": "Twin",
+    "pregnancyEvolution": "Normal",
+    "languageLevel": "Absent",
+    "eegStatus": "Unknown",
+    "mriStatus": "Unknown",
+    "diagnosisAgeMonths": 20,
+    "delays": [
+      "Global"
+    ],
+    "adosScore": 19,
+    "adirScore": null
+  },
+  {
+    "caseId": "ASD-207",
+    "gender": "Male",
+    "pregnancyType": "Natural",
+    "plurality": "Single",
+    "pregnancyEvolution": "Abnormal",
+    "languageLevel": "Absent",
+    "eegStatus": "Normal",
+    "mriStatus": "Normal",
+    "diagnosisAgeMonths": 36,
+    "delays": [
+      "Cognitive"
+    ],
+    "adosScore": null,
+    "adirScore": 15
+  },
+  {
+    "caseId": "ASD-208",
+    "gender": "Male",
+    "pregnancyType": "IVF",
+    "plurality": "Single",
+    "pregnancyEvolution": "Abnormal",
+    "languageLevel": "Absent",
+    "eegStatus": "Unknown",
+    "mriStatus": "Unknown",
+    "diagnosisAgeMonths": 20,
+    "delays": [
+      "Cognitive"
+    ],
+    "adosScore": 20,
+    "adirScore": null
+  },
+  {
+    "caseId": "ASD-209",
+    "gender": "Male",
+    "pregnancyType": "IVF",
+    "plurality": "Twin",
+    "pregnancyEvolution": "Normal",
+    "languageLevel": "Absent",
+    "eegStatus": "Normal",
+    "mriStatus": "Unknown",
+    "diagnosisAgeMonths": 28,
+    "delays": [
+      "Cognitive"
+    ],
+    "adosScore": 19,
+    "adirScore": null
+  },
+  {
+    "caseId": "ASD-210",
+    "gender": "Male",
+    "pregnancyType": "Natural",
+    "plurality": "Single",
+    "pregnancyEvolution": "Normal",
+    "languageLevel": "Delayed",
+    "eegStatus": "Unknown",
+    "mriStatus": "Unknown",
+    "diagnosisAgeMonths": 24,
+    "delays": [
+      "Cognitive"
+    ],
+    "adosScore": null,
+    "adirScore": 35
+  },
+  {
+    "caseId": "ASD-211",
+    "gender": "Male",
+    "pregnancyType": "Natural",
+    "plurality": "Single",
+    "pregnancyEvolution": "Normal",
+    "languageLevel": "Delayed",
+    "eegStatus": "Unknown",
+    "mriStatus": "Unknown",
+    "diagnosisAgeMonths": 24,
+    "delays": [],
+    "adosScore": 19,
+    "adirScore": null
+  },
+  {
+    "caseId": "ASD-212",
+    "gender": "Male",
+    "pregnancyType": "Natural",
+    "plurality": "Single",
+    "pregnancyEvolution": "Normal",
+    "languageLevel": "Delayed",
+    "eegStatus": "Unknown",
+    "mriStatus": "Unknown",
+    "diagnosisAgeMonths": 16,
+    "delays": [
+      "Cognitive"
+    ],
+    "adosScore": null,
+    "adirScore": 35
+  },
+  {
+    "caseId": "ASD-213",
+    "gender": "Female",
+    "pregnancyType": "Natural",
+    "plurality": "Single",
+    "pregnancyEvolution": "Normal",
+    "languageLevel": "Absent",
+    "eegStatus": "Unknown",
+    "mriStatus": "Unknown",
+    "diagnosisAgeMonths": 24,
+    "delays": [
+      "Cognitive"
+    ],
+    "adosScore": 8,
+    "adirScore": null
+  },
+  {
+    "caseId": "ASD-214",
+    "gender": "Male",
+    "pregnancyType": "Natural",
+    "plurality": "Single",
+    "pregnancyEvolution": "Abnormal",
+    "languageLevel": "Delayed",
+    "eegStatus": "Normal",
+    "mriStatus": "Normal",
+    "diagnosisAgeMonths": 20,
+    "delays": [
+      "Cognitive"
+    ],
+    "adosScore": 14,
+    "adirScore": null
+  },
+  {
+    "caseId": "ASD-215",
+    "gender": "Female",
+    "pregnancyType": "Natural",
+    "plurality": "Single",
+    "pregnancyEvolution": "Normal",
+    "languageLevel": "Absent",
+    "eegStatus": "Unknown",
+    "mriStatus": "Unknown",
+    "diagnosisAgeMonths": 35,
+    "delays": [
+      "Cognitive"
+    ],
+    "adosScore": 13,
+    "adirScore": null
+  },
+  {
+    "caseId": "ASD-216",
+    "gender": "Female",
+    "pregnancyType": "Natural",
+    "plurality": "Single",
+    "pregnancyEvolution": "Normal",
+    "languageLevel": "Delayed",
+    "eegStatus": "Normal",
+    "mriStatus": "Normal",
+    "diagnosisAgeMonths": 30,
+    "delays": [
+      "Cognitive"
+    ],
+    "adosScore": null,
+    "adirScore": 61
+  },
+  {
+    "caseId": "ASD-217",
+    "gender": "Male",
+    "pregnancyType": "Natural",
+    "plurality": "Single",
+    "pregnancyEvolution": "Normal",
+    "languageLevel": "Delayed",
+    "eegStatus": "Unknown",
+    "mriStatus": "Unknown",
+    "diagnosisAgeMonths": 36,
+    "delays": [
+      "Cognitive"
+    ],
+    "adosScore": 15,
+    "adirScore": null
+  },
+  {
+    "caseId": "ASD-218",
+    "gender": "Male",
+    "pregnancyType": "IVF",
+    "plurality": "Single",
+    "pregnancyEvolution": "Normal",
+    "languageLevel": "Absent",
+    "eegStatus": "Focal",
+    "mriStatus": "Anomaly",
+    "diagnosisAgeMonths": 30,
+    "delays": [
+      "Global"
+    ],
+    "adosScore": 10,
+    "adirScore": null
+  },
+  {
+    "caseId": "ASD-219",
+    "gender": "Male",
+    "pregnancyType": "Natural",
+    "plurality": "Single",
+    "pregnancyEvolution": "Normal",
+    "languageLevel": "Delayed",
+    "eegStatus": "Unknown",
+    "mriStatus": "Unknown",
+    "diagnosisAgeMonths": 60,
+    "delays": [],
+    "adosScore": 8,
+    "adirScore": null
+  },
+  {
+    "caseId": "ASD-220",
+    "gender": "Male",
+    "pregnancyType": "IVF",
+    "plurality": "Single",
+    "pregnancyEvolution": "Normal",
+    "languageLevel": "Absent",
+    "eegStatus": "Normal",
+    "mriStatus": "Normal",
+    "diagnosisAgeMonths": 20,
+    "delays": [],
+    "adosScore": null,
+    "adirScore": 52
+  },
+  {
+    "caseId": "ASD-221",
+    "gender": "Male",
+    "pregnancyType": "IVF",
+    "plurality": "Single",
+    "pregnancyEvolution": "Normal",
+    "languageLevel": "Absent",
+    "eegStatus": "Unknown",
+    "mriStatus": "Anomaly",
+    "diagnosisAgeMonths": 24,
+    "delays": [
+      "Cognitive"
+    ],
+    "adosScore": null,
+    "adirScore": 29
+  },
+  {
+    "caseId": "ASD-222",
+    "gender": "Female",
+    "pregnancyType": "Natural",
+    "plurality": "Single",
+    "pregnancyEvolution": "Normal",
+    "languageLevel": "Absent",
+    "eegStatus": "Normal",
+    "mriStatus": "Unknown",
+    "diagnosisAgeMonths": 24,
+    "delays": [
+      "Cognitive"
+    ],
+    "adosScore": null,
+    "adirScore": 45
+  },
+  {
+    "caseId": "ASD-223",
+    "gender": "Female",
+    "pregnancyType": "Natural",
+    "plurality": "Single",
+    "pregnancyEvolution": "Normal",
+    "languageLevel": "Absent",
+    "eegStatus": "Unknown",
+    "mriStatus": "Unknown",
+    "diagnosisAgeMonths": 22,
+    "delays": [
+      "Motor"
+    ],
+    "adosScore": 8,
+    "adirScore": null
+  },
+  {
+    "caseId": "ASD-224",
+    "gender": "Female",
+    "pregnancyType": "Natural",
+    "plurality": "Single",
+    "pregnancyEvolution": "Normal",
+    "languageLevel": "Delayed",
+    "eegStatus": "Unknown",
+    "mriStatus": "Unknown",
+    "diagnosisAgeMonths": 24,
+    "delays": [
+      "Cognitive"
+    ],
+    "adosScore": 15,
+    "adirScore": null
+  },
+  {
+    "caseId": "ASD-225",
+    "gender": "Male",
+    "pregnancyType": "Natural",
+    "plurality": "Single",
+    "pregnancyEvolution": "Normal",
+    "languageLevel": "Delayed",
+    "eegStatus": "Unknown",
+    "mriStatus": "Unknown",
+    "diagnosisAgeMonths": 36,
+    "delays": [
+      "Cognitive"
+    ],
+    "adosScore": 17,
+    "adirScore": null
+  },
+  {
+    "caseId": "ASD-226",
+    "gender": "Male",
+    "pregnancyType": "Natural",
+    "plurality": "Single",
+    "pregnancyEvolution": "Normal",
+    "languageLevel": "Absent",
+    "eegStatus": "Unknown",
+    "mriStatus": "Unknown",
+    "diagnosisAgeMonths": 24,
+    "delays": [
+      "Global"
+    ],
+    "adosScore": 15,
+    "adirScore": null
+  },
+  {
+    "caseId": "ASD-227",
+    "gender": "Female",
+    "pregnancyType": "Natural",
+    "plurality": "Single",
+    "pregnancyEvolution": "Normal",
+    "languageLevel": "Delayed",
+    "eegStatus": "Bilateral",
+    "mriStatus": "Normal",
+    "diagnosisAgeMonths": 24,
+    "delays": [
+      "Global"
+    ],
+    "adosScore": null,
+    "adirScore": 45
+  },
+  {
+    "caseId": "ASD-228",
+    "gender": "Male",
+    "pregnancyType": "Natural",
+    "plurality": "Single",
+    "pregnancyEvolution": "Normal",
+    "languageLevel": "Delayed",
+    "eegStatus": "Bilateral",
+    "mriStatus": "Anomaly",
+    "diagnosisAgeMonths": 24,
+    "delays": [
+      "Global"
+    ],
+    "adosScore": null,
+    "adirScore": 45
+  },
+  {
+    "caseId": "ASD-229",
+    "gender": "Male",
+    "pregnancyType": "Natural",
+    "plurality": "Single",
+    "pregnancyEvolution": "Normal",
+    "languageLevel": "Absent",
+    "eegStatus": "Unknown",
+    "mriStatus": "Anomaly",
+    "diagnosisAgeMonths": 48,
+    "delays": [
+      "Global"
+    ],
+    "adosScore": 12,
+    "adirScore": null
+  },
+  {
+    "caseId": "ASD-230",
+    "gender": "Male",
+    "pregnancyType": "Natural",
+    "plurality": "Single",
+    "pregnancyEvolution": "Normal",
+    "languageLevel": "Absent",
+    "eegStatus": "Unknown",
+    "mriStatus": "Unknown",
+    "diagnosisAgeMonths": 63,
+    "delays": [
+      "Global"
+    ],
+    "adosScore": null,
+    "adirScore": 43
+  },
+  {
+    "caseId": "ASD-231",
+    "gender": "Male",
+    "pregnancyType": "Natural",
+    "plurality": "Single",
+    "pregnancyEvolution": "Normal",
+    "languageLevel": "Absent",
+    "eegStatus": "Unknown",
+    "mriStatus": "Unknown",
+    "diagnosisAgeMonths": 72,
+    "delays": [],
+    "adosScore": 15,
+    "adirScore": null
+  },
+  {
+    "caseId": "ASD-232",
+    "gender": "Male",
+    "pregnancyType": "Natural",
+    "plurality": "Single",
+    "pregnancyEvolution": "Abnormal",
+    "languageLevel": "Absent",
+    "eegStatus": "Unknown",
+    "mriStatus": "Anomaly",
+    "diagnosisAgeMonths": 32,
+    "delays": [
+      "Global"
+    ],
+    "adosScore": null,
+    "adirScore": 45
+  },
+  {
+    "caseId": "ASD-233",
+    "gender": "Male",
+    "pregnancyType": "Natural",
+    "plurality": "Single",
+    "pregnancyEvolution": "Normal",
+    "languageLevel": "Delayed",
+    "eegStatus": "Bilateral",
+    "mriStatus": "Anomaly",
+    "diagnosisAgeMonths": 16,
+    "delays": [
+      "Global"
+    ],
+    "adosScore": 10,
+    "adirScore": null
+  },
+  {
+    "caseId": "ASD-234",
+    "gender": "Male",
+    "pregnancyType": "Natural",
+    "plurality": "Single",
+    "pregnancyEvolution": "Normal",
+    "languageLevel": "Absent",
+    "eegStatus": "Unknown",
+    "mriStatus": "Unknown",
+    "diagnosisAgeMonths": 36,
+    "delays": [
+      "Cognitive"
+    ],
+    "adosScore": 8,
+    "adirScore": null
+  },
+  {
+    "caseId": "ASD-235",
+    "gender": "Male",
+    "pregnancyType": "Natural",
+    "plurality": "Single",
+    "pregnancyEvolution": "Normal",
+    "languageLevel": "Delayed",
+    "eegStatus": "Normal",
+    "mriStatus": "Normal",
+    "diagnosisAgeMonths": 24,
+    "delays": [],
+    "adosScore": 12,
+    "adirScore": null
+  },
+  {
+    "caseId": "ASD-236",
+    "gender": "Male",
+    "pregnancyType": "Natural",
+    "plurality": "Single",
+    "pregnancyEvolution": "Normal",
+    "languageLevel": "Delayed",
+    "eegStatus": "Unknown",
+    "mriStatus": "Unknown",
+    "diagnosisAgeMonths": 54,
+    "delays": [
+      "Cognitive"
+    ],
+    "adosScore": null,
+    "adirScore": 42
+  },
+  {
+    "caseId": "ASD-237",
+    "gender": "Male",
+    "pregnancyType": "Natural",
+    "plurality": "Single",
+    "pregnancyEvolution": "Normal",
+    "languageLevel": "Absent",
+    "eegStatus": "Unknown",
+    "mriStatus": "Unknown",
+    "diagnosisAgeMonths": 52,
+    "delays": [],
+    "adosScore": 15,
+    "adirScore": null
+  },
+  {
+    "caseId": "ASD-238",
+    "gender": "Male",
+    "pregnancyType": "Natural",
+    "plurality": "Single",
+    "pregnancyEvolution": "Normal",
+    "languageLevel": "Delayed",
+    "eegStatus": "Normal",
+    "mriStatus": "Anomaly",
+    "diagnosisAgeMonths": 24,
+    "delays": [
+      "Global"
+    ],
+    "adosScore": 13,
+    "adirScore": null
+  },
+  {
+    "caseId": "ASD-239",
+    "gender": "Female",
+    "pregnancyType": "Natural",
+    "plurality": "Single",
+    "pregnancyEvolution": "Normal",
+    "languageLevel": "Absent",
+    "eegStatus": "Normal",
+    "mriStatus": "Unknown",
+    "diagnosisAgeMonths": 36,
+    "delays": [
+      "Cognitive"
+    ],
+    "adosScore": 15,
+    "adirScore": null
+  },
+  {
+    "caseId": "ASD-240",
+    "gender": "Male",
+    "pregnancyType": "Natural",
+    "plurality": "Single",
+    "pregnancyEvolution": "Abnormal",
+    "languageLevel": "Delayed",
+    "eegStatus": "Normal",
+    "mriStatus": "Unknown",
+    "diagnosisAgeMonths": 18,
+    "delays": [
+      "Cognitive"
+    ],
+    "adosScore": 10,
+    "adirScore": null
+  },
+  {
+    "caseId": "ASD-241",
+    "gender": "Male",
+    "pregnancyType": "Natural",
+    "plurality": "Single",
+    "pregnancyEvolution": "Normal",
+    "languageLevel": "Delayed",
+    "eegStatus": "Unknown",
+    "mriStatus": "Unknown",
+    "diagnosisAgeMonths": 54,
+    "delays": [
+      "Cognitive"
+    ],
+    "adosScore": 13,
+    "adirScore": null
+  },
+  {
+    "caseId": "ASD-242",
+    "gender": "Female",
+    "pregnancyType": "Natural",
+    "plurality": "Single",
+    "pregnancyEvolution": "Normal",
+    "languageLevel": "Absent",
+    "eegStatus": "Normal",
+    "mriStatus": "Anomaly",
+    "diagnosisAgeMonths": 38,
+    "delays": [],
+    "adosScore": 15,
+    "adirScore": null
+  },
+  {
+    "caseId": "ASD-243",
+    "gender": "Male",
+    "pregnancyType": "Natural",
+    "plurality": "Single",
+    "pregnancyEvolution": "Normal",
+    "languageLevel": "Delayed",
+    "eegStatus": "Unknown",
+    "mriStatus": "Unknown",
+    "diagnosisAgeMonths": 48,
+    "delays": [
+      "Cognitive"
+    ],
+    "adosScore": 14,
+    "adirScore": null
+  },
+  {
+    "caseId": "ASD-244",
+    "gender": "Female",
+    "pregnancyType": "Natural",
+    "plurality": "Single",
+    "pregnancyEvolution": "Normal",
+    "languageLevel": "Delayed",
+    "eegStatus": "Unknown",
+    "mriStatus": "Unknown",
+    "diagnosisAgeMonths": 24,
+    "delays": [],
+    "adosScore": 9,
+    "adirScore": null
+  },
+  {
+    "caseId": "ASD-245",
+    "gender": "Male",
+    "pregnancyType": "Natural",
+    "plurality": "Single",
+    "pregnancyEvolution": "Normal",
+    "languageLevel": "Absent",
+    "eegStatus": "Unknown",
+    "mriStatus": "Unknown",
+    "diagnosisAgeMonths": 29,
+    "delays": [
+      "Cognitive"
+    ],
+    "adosScore": 11,
+    "adirScore": null
+  },
+  {
+    "caseId": "ASD-246",
+    "gender": "Female",
+    "pregnancyType": "Natural",
+    "plurality": "Single",
+    "pregnancyEvolution": "Normal",
+    "languageLevel": "Delayed",
+    "eegStatus": "Unknown",
+    "mriStatus": "Unknown",
+    "diagnosisAgeMonths": 36,
+    "delays": [
+      "Global"
+    ],
+    "adosScore": 20,
+    "adirScore": null
+  },
+  {
+    "caseId": "ASD-247",
+    "gender": "Female",
+    "pregnancyType": "Natural",
+    "plurality": "Single",
+    "pregnancyEvolution": "Normal",
+    "languageLevel": "Delayed",
+    "eegStatus": "Focal",
+    "mriStatus": "Anomaly",
+    "diagnosisAgeMonths": 60,
+    "delays": [
+      "Global"
+    ],
+    "adosScore": 15,
+    "adirScore": null
+  },
+  {
+    "caseId": "ASD-248",
+    "gender": "Male",
+    "pregnancyType": "Natural",
+    "plurality": "Single",
+    "pregnancyEvolution": "Normal",
+    "languageLevel": "Delayed",
+    "eegStatus": "Unknown",
+    "mriStatus": "Unknown",
+    "diagnosisAgeMonths": 48,
+    "delays": [],
+    "adosScore": 9,
+    "adirScore": null
+  },
+  {
+    "caseId": "ASD-249",
+    "gender": "Male",
+    "pregnancyType": "Natural",
+    "plurality": "Single",
+    "pregnancyEvolution": "Normal",
+    "languageLevel": "Delayed",
+    "eegStatus": "Normal",
+    "mriStatus": "Unknown",
+    "diagnosisAgeMonths": 36,
+    "delays": [
+      "Global"
+    ],
+    "adosScore": null,
+    "adirScore": 34
+  },
+  {
+    "caseId": "ASD-250",
+    "gender": "Male",
+    "pregnancyType": "Natural",
+    "plurality": "Single",
+    "pregnancyEvolution": "Normal",
+    "languageLevel": "Delayed",
+    "eegStatus": "Normal",
+    "mriStatus": "Unknown",
+    "diagnosisAgeMonths": 18,
+    "delays": [
+      "Cognitive"
+    ],
+    "adosScore": 11,
+    "adirScore": null
+  },
+  {
+    "caseId": "ASD-251",
+    "gender": "Male",
+    "pregnancyType": "Natural",
+    "plurality": "Single",
+    "pregnancyEvolution": "Normal",
+    "languageLevel": "Delayed",
+    "eegStatus": "Unknown",
+    "mriStatus": "Unknown",
+    "diagnosisAgeMonths": 18,
+    "delays": [
+      "Cognitive"
+    ],
+    "adosScore": 21,
+    "adirScore": null
+  },
+  {
+    "caseId": "ASD-252",
+    "gender": "Male",
+    "pregnancyType": "Natural",
+    "plurality": "Single",
+    "pregnancyEvolution": "Normal",
+    "languageLevel": "Delayed",
+    "eegStatus": "Normal",
+    "mriStatus": "Unknown",
+    "diagnosisAgeMonths": 24,
+    "delays": [
+      "Cognitive"
+    ],
+    "adosScore": 13,
+    "adirScore": null
+  },
+  {
+    "caseId": "ASD-253",
+    "gender": "Male",
+    "pregnancyType": "Natural",
+    "plurality": "Single",
+    "pregnancyEvolution": "Normal",
+    "languageLevel": "Delayed",
+    "eegStatus": "Normal",
+    "mriStatus": "Unknown",
+    "diagnosisAgeMonths": 62,
+    "delays": [],
+    "adosScore": 11,
+    "adirScore": null
+  },
+  {
+    "caseId": "ASD-254",
+    "gender": "Male",
+    "pregnancyType": "Natural",
+    "plurality": "Single",
+    "pregnancyEvolution": "Normal",
+    "languageLevel": "Functional",
+    "eegStatus": "Unknown",
+    "mriStatus": "Unknown",
+    "diagnosisAgeMonths": 175,
+    "delays": [],
+    "adosScore": 8,
+    "adirScore": null
+  },
+  {
+    "caseId": "ASD-255",
+    "gender": "Female",
+    "pregnancyType": "Natural",
+    "plurality": "Single",
+    "pregnancyEvolution": "Normal",
+    "languageLevel": "Absent",
+    "eegStatus": "Bilateral",
+    "mriStatus": "Unknown",
+    "diagnosisAgeMonths": 30,
+    "delays": [
+      "Cognitive"
+    ],
+    "adosScore": 14,
+    "adirScore": null
+  },
+  {
+    "caseId": "ASD-256",
+    "gender": "Male",
+    "pregnancyType": "Natural",
+    "plurality": "Single",
+    "pregnancyEvolution": "Normal",
+    "languageLevel": "Delayed",
+    "eegStatus": "Unknown",
+    "mriStatus": "Unknown",
+    "diagnosisAgeMonths": 60,
+    "delays": [
+      "Cognitive"
+    ],
+    "adosScore": 9,
+    "adirScore": null
+  },
+  {
+    "caseId": "ASD-257",
+    "gender": "Female",
+    "pregnancyType": "Natural",
+    "plurality": "Single",
+    "pregnancyEvolution": "Abnormal",
+    "languageLevel": "Delayed",
+    "eegStatus": "Unknown",
+    "mriStatus": "Unknown",
+    "diagnosisAgeMonths": 24,
+    "delays": [
+      "Cognitive"
+    ],
+    "adosScore": 10,
+    "adirScore": null
+  },
+  {
+    "caseId": "ASD-258",
+    "gender": "Male",
+    "pregnancyType": "Natural",
+    "plurality": "Single",
+    "pregnancyEvolution": "Normal",
+    "languageLevel": "Delayed",
+    "eegStatus": "Unknown",
+    "mriStatus": "Unknown",
+    "diagnosisAgeMonths": 44,
+    "delays": [
+      "Global"
+    ],
+    "adosScore": 13,
+    "adirScore": null
+  },
+  {
+    "caseId": "ASD-259",
+    "gender": "Male",
+    "pregnancyType": "Natural",
+    "plurality": "Single",
+    "pregnancyEvolution": "Normal",
+    "languageLevel": "Delayed",
+    "eegStatus": "Unknown",
+    "mriStatus": "Unknown",
+    "diagnosisAgeMonths": 20,
+    "delays": [],
+    "adosScore": 14,
+    "adirScore": null
+  },
+  {
+    "caseId": "ASD-260",
+    "gender": "Male",
+    "pregnancyType": "Natural",
+    "plurality": "Single",
+    "pregnancyEvolution": "Normal",
+    "languageLevel": "Delayed",
+    "eegStatus": "Unknown",
+    "mriStatus": "Unknown",
+    "diagnosisAgeMonths": 36,
+    "delays": [
+      "Cognitive"
+    ],
+    "adosScore": 10,
+    "adirScore": null
+  },
+  {
+    "caseId": "ASD-261",
+    "gender": "Male",
+    "pregnancyType": "Natural",
+    "plurality": "Single",
+    "pregnancyEvolution": "Normal",
+    "languageLevel": "Functional",
+    "eegStatus": "Unknown",
+    "mriStatus": "Unknown",
+    "diagnosisAgeMonths": 132,
+    "delays": [],
+    "adosScore": 9,
+    "adirScore": null
+  },
+  {
+    "caseId": "ASD-262",
+    "gender": "Male",
+    "pregnancyType": "Natural",
+    "plurality": "Single",
+    "pregnancyEvolution": "Normal",
+    "languageLevel": "Delayed",
+    "eegStatus": "Unknown",
+    "mriStatus": "Unknown",
+    "diagnosisAgeMonths": 38,
+    "delays": [],
+    "adosScore": 13,
+    "adirScore": null
+  },
+  {
+    "caseId": "ASD-263",
+    "gender": "Male",
+    "pregnancyType": "Natural",
+    "plurality": "Single",
+    "pregnancyEvolution": "Normal",
+    "languageLevel": "Delayed",
+    "eegStatus": "Unknown",
+    "mriStatus": "Unknown",
+    "diagnosisAgeMonths": 43,
+    "delays": [],
+    "adosScore": 20,
+    "adirScore": null
+  },
+  {
+    "caseId": "ASD-264",
+    "gender": "Female",
+    "pregnancyType": "Natural",
+    "plurality": "Single",
+    "pregnancyEvolution": "Normal",
+    "languageLevel": "Delayed",
+    "eegStatus": "Unknown",
+    "mriStatus": "Unknown",
+    "diagnosisAgeMonths": 24,
+    "delays": [],
+    "adosScore": 10,
+    "adirScore": null
+  },
+  {
+    "caseId": "ASD-265",
+    "gender": "Male",
+    "pregnancyType": "Natural",
+    "plurality": "Single",
+    "pregnancyEvolution": "Abnormal",
+    "languageLevel": "Delayed",
+    "eegStatus": "Unknown",
+    "mriStatus": "Unknown",
+    "diagnosisAgeMonths": 36,
+    "delays": [
+      "Global"
+    ],
+    "adosScore": 20,
+    "adirScore": null
+  },
+  {
+    "caseId": "ASD-266",
+    "gender": "Male",
+    "pregnancyType": "Natural",
+    "plurality": "Single",
+    "pregnancyEvolution": "Normal",
+    "languageLevel": "Delayed",
+    "eegStatus": "Normal",
+    "mriStatus": "Unknown",
+    "diagnosisAgeMonths": 36,
+    "delays": [],
+    "adosScore": 9,
+    "adirScore": null
+  },
+  {
+    "caseId": "ASD-267",
+    "gender": "Male",
+    "pregnancyType": "Natural",
+    "plurality": "Single",
+    "pregnancyEvolution": "Abnormal",
+    "languageLevel": "Delayed",
+    "eegStatus": "Normal",
+    "mriStatus": "Normal",
+    "diagnosisAgeMonths": 24,
+    "delays": [
+      "Global"
+    ],
+    "adosScore": 9,
+    "adirScore": null
+  },
+  {
+    "caseId": "ASD-268",
+    "gender": "Male",
+    "pregnancyType": "Natural",
+    "plurality": "Single",
+    "pregnancyEvolution": "Abnormal",
+    "languageLevel": "Delayed",
+    "eegStatus": "Normal",
+    "mriStatus": "Anomaly",
+    "diagnosisAgeMonths": 24,
+    "delays": [],
+    "adosScore": 11,
+    "adirScore": null
+  },
+  {
+    "caseId": "ASD-269",
+    "gender": "Male",
+    "pregnancyType": "Natural",
+    "plurality": "Single",
+    "pregnancyEvolution": "Normal",
+    "languageLevel": "Delayed",
+    "eegStatus": "Normal",
+    "mriStatus": "Unknown",
+    "diagnosisAgeMonths": 20,
+    "delays": [],
+    "adosScore": 12,
+    "adirScore": null
+  },
+  {
+    "caseId": "ASD-270",
+    "gender": "Female",
+    "pregnancyType": "Natural",
+    "plurality": "Single",
+    "pregnancyEvolution": "Normal",
+    "languageLevel": "Delayed",
+    "eegStatus": "Bilateral",
+    "mriStatus": "Anomaly",
+    "diagnosisAgeMonths": 27,
+    "delays": [
+      "Cognitive"
+    ],
+    "adosScore": null,
+    "adirScore": 45
+  },
+  {
+    "caseId": "ASD-271",
+    "gender": "Male",
+    "pregnancyType": "Natural",
+    "plurality": "Single",
+    "pregnancyEvolution": "Normal",
+    "languageLevel": "Delayed",
+    "eegStatus": "Normal",
+    "mriStatus": "Unknown",
+    "diagnosisAgeMonths": 33,
+    "delays": [
+      "Global"
+    ],
+    "adosScore": null,
+    "adirScore": 35
+  },
+  {
+    "caseId": "ASD-272",
+    "gender": "Male",
+    "pregnancyType": "Natural",
+    "plurality": "Single",
+    "pregnancyEvolution": "Abnormal",
+    "languageLevel": "Delayed",
+    "eegStatus": "Normal",
+    "mriStatus": "Unknown",
+    "diagnosisAgeMonths": 64,
+    "delays": [
+      "Cognitive"
+    ],
+    "adosScore": 17,
+    "adirScore": null
+  },
+  {
+    "caseId": "ASD-273",
+    "gender": "Male",
+    "pregnancyType": "Natural",
+    "plurality": "Single",
+    "pregnancyEvolution": "Normal",
+    "languageLevel": "Delayed",
+    "eegStatus": "Normal",
+    "mriStatus": "Unknown",
+    "diagnosisAgeMonths": 24,
+    "delays": [
+      "Cognitive"
+    ],
+    "adosScore": 8,
+    "adirScore": null
+  },
+  {
+    "caseId": "ASD-274",
+    "gender": "Male",
+    "pregnancyType": "Natural",
+    "plurality": "Single",
+    "pregnancyEvolution": "Normal",
+    "languageLevel": "Delayed",
+    "eegStatus": "Normal",
+    "mriStatus": "Unknown",
+    "diagnosisAgeMonths": 48,
+    "delays": [],
+    "adosScore": 12,
+    "adirScore": null
+  },
+  {
+    "caseId": "ASD-275",
+    "gender": "Male",
+    "pregnancyType": "Natural",
+    "plurality": "Single",
+    "pregnancyEvolution": "Normal",
+    "languageLevel": "Delayed",
+    "eegStatus": "Unknown",
+    "mriStatus": "Unknown",
+    "diagnosisAgeMonths": 36,
+    "delays": [
+      "Cognitive"
+    ],
+    "adosScore": null,
+    "adirScore": 56
+  },
+  {
+    "caseId": "ASD-276",
+    "gender": "Male",
+    "pregnancyType": "Natural",
+    "plurality": "Single",
+    "pregnancyEvolution": "Normal",
+    "languageLevel": "Functional",
+    "eegStatus": "Unknown",
+    "mriStatus": "Unknown",
+    "diagnosisAgeMonths": 17,
+    "delays": [],
+    "adosScore": 10,
+    "adirScore": null
+  },
+  {
+    "caseId": "ASD-277",
+    "gender": "Male",
+    "pregnancyType": "Natural",
+    "plurality": "Single",
+    "pregnancyEvolution": "Abnormal",
+    "languageLevel": "Delayed",
+    "eegStatus": "Normal",
+    "mriStatus": "Normal",
+    "diagnosisAgeMonths": 90,
+    "delays": [],
+    "adosScore": 8,
+    "adirScore": null
+  },
+  {
+    "caseId": "ASD-278",
+    "gender": "Female",
+    "pregnancyType": "Natural",
+    "plurality": "Single",
+    "pregnancyEvolution": "Normal",
+    "languageLevel": "Functional",
+    "eegStatus": "Unknown",
+    "mriStatus": "Unknown",
+    "diagnosisAgeMonths": 24,
+    "delays": [],
+    "adosScore": 5,
+    "adirScore": null
+  },
+  {
+    "caseId": "ASD-279",
+    "gender": "Female",
+    "pregnancyType": "Natural",
+    "plurality": "Single",
+    "pregnancyEvolution": "Normal",
+    "languageLevel": "Absent",
+    "eegStatus": "Focal",
+    "mriStatus": "Normal",
+    "diagnosisAgeMonths": 36,
+    "delays": [
+      "Global"
+    ],
+    "adosScore": null,
+    "adirScore": 30
+  },
+  {
+    "caseId": "ASD-280",
+    "gender": "Female",
+    "pregnancyType": "Natural",
+    "plurality": "Single",
+    "pregnancyEvolution": "Abnormal",
+    "languageLevel": "Delayed",
+    "eegStatus": "Unknown",
+    "mriStatus": "Unknown",
+    "diagnosisAgeMonths": 38,
+    "delays": [
+      "Cognitive"
+    ],
+    "adosScore": 10,
+    "adirScore": null
+  },
+  {
+    "caseId": "ASD-281",
+    "gender": "Male",
+    "pregnancyType": "Natural",
+    "plurality": "Single",
+    "pregnancyEvolution": "Normal",
+    "languageLevel": "Delayed",
+    "eegStatus": "Unknown",
+    "mriStatus": "Anomaly",
+    "diagnosisAgeMonths": 24,
+    "delays": [
+      "Cognitive"
+    ],
+    "adosScore": 14,
+    "adirScore": null
+  },
+  {
+    "caseId": "ASD-282",
+    "gender": "Male",
+    "pregnancyType": "Natural",
+    "plurality": "Single",
+    "pregnancyEvolution": "Normal",
+    "languageLevel": "Functional",
+    "eegStatus": "Normal",
+    "mriStatus": "Normal",
+    "diagnosisAgeMonths": 180,
+    "delays": [],
+    "adosScore": 8,
+    "adirScore": null
+  },
+  {
+    "caseId": "ASD-283",
+    "gender": "Male",
+    "pregnancyType": "Natural",
+    "plurality": "Single",
+    "pregnancyEvolution": "Normal",
+    "languageLevel": "Absent",
+    "eegStatus": "Unknown",
+    "mriStatus": "Anomaly",
+    "diagnosisAgeMonths": 48,
+    "delays": [
+      "Global"
+    ],
+    "adosScore": 10,
+    "adirScore": null
+  },
+  {
+    "caseId": "ASD-284",
+    "gender": "Female",
+    "pregnancyType": "Natural",
+    "plurality": "Single",
+    "pregnancyEvolution": "Abnormal",
+    "languageLevel": "Delayed",
+    "eegStatus": "Normal",
+    "mriStatus": "Anomaly",
+    "diagnosisAgeMonths": 30,
+    "delays": [
+      "Cognitive"
+    ],
+    "adosScore": 10,
+    "adirScore": null
+  },
+  {
+    "caseId": "ASD-285",
+    "gender": "Male",
+    "pregnancyType": "Natural",
+    "plurality": "Single",
+    "pregnancyEvolution": "Normal",
+    "languageLevel": "Delayed",
+    "eegStatus": "Unknown",
+    "mriStatus": "Unknown",
+    "diagnosisAgeMonths": 55,
+    "delays": [],
+    "adosScore": 10,
+    "adirScore": null
+  },
+  {
+    "caseId": "ASD-286",
+    "gender": "Female",
+    "pregnancyType": "Natural",
+    "plurality": "Twin",
+    "pregnancyEvolution": "Normal",
+    "languageLevel": "Delayed",
+    "eegStatus": "Normal",
+    "mriStatus": "Normal",
+    "diagnosisAgeMonths": 36,
+    "delays": [
+      "Global"
+    ],
+    "adosScore": null,
+    "adirScore": 30
+  },
+  {
+    "caseId": "ASD-287",
+    "gender": "Female",
+    "pregnancyType": "Natural",
+    "plurality": "Twin",
+    "pregnancyEvolution": "Normal",
+    "languageLevel": "Delayed",
+    "eegStatus": "Normal",
+    "mriStatus": "Normal",
+    "diagnosisAgeMonths": 36,
+    "delays": [
+      "Global"
+    ],
+    "adosScore": null,
+    "adirScore": 30
+  },
+  {
+    "caseId": "ASD-288",
+    "gender": "Female",
+    "pregnancyType": "Natural",
+    "plurality": "Single",
+    "pregnancyEvolution": "Normal",
+    "languageLevel": "Functional",
+    "eegStatus": "Normal",
+    "mriStatus": "Normal",
+    "diagnosisAgeMonths": 205,
+    "delays": [],
+    "adosScore": 8,
+    "adirScore": null
+  },
+  {
+    "caseId": "ASD-289",
+    "gender": "Male",
+    "pregnancyType": "Natural",
+    "plurality": "Single",
+    "pregnancyEvolution": "Abnormal",
+    "languageLevel": "Absent",
+    "eegStatus": "Focal",
+    "mriStatus": "Anomaly",
+    "diagnosisAgeMonths": 60,
+    "delays": [
+      "Global"
+    ],
+    "adosScore": null,
+    "adirScore": 30
+  },
+  {
+    "caseId": "ASD-290",
+    "gender": "Male",
+    "pregnancyType": "Natural",
+    "plurality": "Single",
+    "pregnancyEvolution": "Abnormal",
+    "languageLevel": "Delayed",
+    "eegStatus": "Unknown",
+    "mriStatus": "Unknown",
+    "diagnosisAgeMonths": 50,
+    "delays": [],
+    "adosScore": 8,
+    "adirScore": null
+  },
+  {
+    "caseId": "ASD-291",
+    "gender": "Male",
+    "pregnancyType": "Natural",
+    "plurality": "Single",
+    "pregnancyEvolution": "Normal",
+    "languageLevel": "Functional",
+    "eegStatus": "Normal",
+    "mriStatus": "Anomaly",
+    "diagnosisAgeMonths": 168,
+    "delays": [],
+    "adosScore": 8,
+    "adirScore": null
+  },
+  {
+    "caseId": "ASD-292",
+    "gender": "Male",
+    "pregnancyType": "Natural",
+    "plurality": "Single",
+    "pregnancyEvolution": "Abnormal",
+    "languageLevel": "Functional",
+    "eegStatus": "Normal",
+    "mriStatus": "Normal",
+    "diagnosisAgeMonths": 132,
+    "delays": [],
+    "adosScore": 8,
+    "adirScore": null
+  },
+  {
+    "caseId": "ASD-293",
+    "gender": "Female",
+    "pregnancyType": "Natural",
+    "plurality": "Single",
+    "pregnancyEvolution": "Normal",
+    "languageLevel": "Delayed",
+    "eegStatus": "Normal",
+    "mriStatus": "Normal",
+    "diagnosisAgeMonths": 30,
+    "delays": [
+      "Global"
+    ],
+    "adosScore": null,
+    "adirScore": 30
+  },
+  {
+    "caseId": "ASD-294",
+    "gender": "Female",
+    "pregnancyType": "Natural",
+    "plurality": "Single",
+    "pregnancyEvolution": "Normal",
+    "languageLevel": "Functional",
+    "eegStatus": "Unknown",
+    "mriStatus": "Unknown",
+    "diagnosisAgeMonths": 168,
+    "delays": [],
+    "adosScore": 8,
+    "adirScore": null
+  },
+  {
+    "caseId": "ASD-295",
+    "gender": "Female",
+    "pregnancyType": "Natural",
+    "plurality": "Single",
+    "pregnancyEvolution": "Unknown",
+    "languageLevel": "Absent",
+    "eegStatus": "Unknown",
+    "mriStatus": "Unknown",
+    "diagnosisAgeMonths": 24,
+    "delays": [
+      "Global"
+    ],
+    "adosScore": 12,
+    "adirScore": null
+  },
+  {
+    "caseId": "ASD-296",
+    "gender": "Male",
+    "pregnancyType": "Natural",
+    "plurality": "Single",
+    "pregnancyEvolution": "Normal",
+    "languageLevel": "Delayed",
+    "eegStatus": "Normal",
+    "mriStatus": "Anomaly",
+    "diagnosisAgeMonths": 120,
+    "delays": [],
+    "adosScore": 8,
+    "adirScore": null
+  },
+  {
+    "caseId": "ASD-297",
+    "gender": "Male",
+    "pregnancyType": "Natural",
+    "plurality": "Single",
+    "pregnancyEvolution": "Normal",
+    "languageLevel": "Functional",
+    "eegStatus": "Unknown",
+    "mriStatus": "Unknown",
+    "diagnosisAgeMonths": 156,
+    "delays": [],
+    "adosScore": 8,
+    "adirScore": null
+  },
+  {
+    "caseId": "ASD-298",
+    "gender": "Female",
+    "pregnancyType": "Natural",
+    "plurality": "Single",
+    "pregnancyEvolution": "Normal",
+    "languageLevel": "Delayed",
+    "eegStatus": "Unknown",
+    "mriStatus": "Unknown",
+    "diagnosisAgeMonths": 29,
+    "delays": [],
+    "adosScore": 8,
+    "adirScore": null
+  },
+  {
+    "caseId": "ASD-299",
+    "gender": "Female",
+    "pregnancyType": "Natural",
+    "plurality": "Single",
+    "pregnancyEvolution": "Normal",
+    "languageLevel": "Delayed",
+    "eegStatus": "Unknown",
+    "mriStatus": "Unknown",
+    "diagnosisAgeMonths": 31,
+    "delays": [
+      "Cognitive"
+    ],
+    "adosScore": 9,
+    "adirScore": null
+  },
+  {
+    "caseId": "ASD-300",
+    "gender": "Male",
+    "pregnancyType": "Natural",
+    "plurality": "Single",
+    "pregnancyEvolution": "Normal",
+    "languageLevel": "Delayed",
+    "eegStatus": "Unknown",
+    "mriStatus": "Unknown",
+    "diagnosisAgeMonths": 36,
+    "delays": [],
+    "adosScore": 8,
+    "adirScore": null
+  },
+  {
+    "caseId": "ASD-301",
+    "gender": "Female",
+    "pregnancyType": "Natural",
+    "plurality": "Single",
+    "pregnancyEvolution": "Abnormal",
+    "languageLevel": "Delayed",
+    "eegStatus": "Normal",
+    "mriStatus": "Unknown",
+    "diagnosisAgeMonths": 36,
+    "delays": [
+      "Cognitive"
+    ],
+    "adosScore": 10,
+    "adirScore": null
+  },
+  {
+    "caseId": "ASD-302",
+    "gender": "Female",
+    "pregnancyType": "Natural",
+    "plurality": "Twin",
+    "pregnancyEvolution": "Normal",
+    "languageLevel": "Absent",
+    "eegStatus": "Normal",
+    "mriStatus": "Unknown",
+    "diagnosisAgeMonths": 30,
+    "delays": [
+      "Cognitive"
+    ],
+    "adosScore": 9,
+    "adirScore": null
+  },
+  {
+    "caseId": "ASD-303",
+    "gender": "Female",
+    "pregnancyType": "Natural",
+    "plurality": "Twin",
+    "pregnancyEvolution": "Normal",
+    "languageLevel": "Absent",
+    "eegStatus": "Normal",
+    "mriStatus": "Unknown",
+    "diagnosisAgeMonths": 17,
+    "delays": [],
+    "adosScore": 3,
+    "adirScore": null
+  },
+  {
+    "caseId": "ASD-304",
+    "gender": "Male",
+    "pregnancyType": "Natural",
+    "plurality": "Single",
+    "pregnancyEvolution": "Normal",
+    "languageLevel": "Delayed",
+    "eegStatus": "Normal",
+    "mriStatus": "Unknown",
+    "diagnosisAgeMonths": 28,
+    "delays": [
+      "Cognitive"
+    ],
+    "adosScore": 13,
+    "adirScore": 34
+  },
+  {
+    "caseId": "ASD-305",
+    "gender": "Male",
+    "pregnancyType": "Natural",
+    "plurality": "Single",
+    "pregnancyEvolution": "Abnormal",
+    "languageLevel": "Delayed",
+    "eegStatus": "Normal",
+    "mriStatus": "Unknown",
+    "diagnosisAgeMonths": 28,
+    "delays": [
+      "Cognitive"
+    ],
+    "adosScore": 14,
+    "adirScore": 45
+  },
+  {
+    "caseId": "ASD-306",
+    "gender": "Male",
+    "pregnancyType": "Natural",
+    "plurality": "Single",
+    "pregnancyEvolution": "Abnormal",
+    "languageLevel": "Delayed",
+    "eegStatus": "Normal",
+    "mriStatus": "Unknown",
+    "diagnosisAgeMonths": 30,
+    "delays": [
+      "Cognitive"
+    ],
+    "adosScore": null,
+    "adirScore": 40
+  },
+  {
+    "caseId": "ASD-307",
+    "gender": "Male",
+    "pregnancyType": "Natural",
+    "plurality": "Single",
+    "pregnancyEvolution": "Normal",
+    "languageLevel": "Delayed",
+    "eegStatus": "Unknown",
+    "mriStatus": "Normal",
+    "diagnosisAgeMonths": 60,
+    "delays": [
+      "Global"
+    ],
+    "adosScore": 11,
+    "adirScore": null
+  },
+  {
+    "caseId": "ASD-308",
+    "gender": "Male",
+    "pregnancyType": "Natural",
+    "plurality": "Single",
+    "pregnancyEvolution": "Abnormal",
+    "languageLevel": "Delayed",
+    "eegStatus": "Unknown",
+    "mriStatus": "Unknown",
+    "diagnosisAgeMonths": 36,
+    "delays": [
+      "Cognitive"
+    ],
+    "adosScore": 11,
+    "adirScore": null
+  },
+  {
+    "caseId": "ASD-309",
+    "gender": "Female",
+    "pregnancyType": "Natural",
+    "plurality": "Twin",
+    "pregnancyEvolution": "Normal",
+    "languageLevel": "Delayed",
+    "eegStatus": "Normal",
+    "mriStatus": "Unknown",
+    "diagnosisAgeMonths": 24,
+    "delays": [
+      "Cognitive"
+    ],
+    "adosScore": 19,
+    "adirScore": null
+  },
+  {
+    "caseId": "ASD-310",
+    "gender": "Female",
+    "pregnancyType": "Natural",
+    "plurality": "Twin",
+    "pregnancyEvolution": "Normal",
+    "languageLevel": "Delayed",
+    "eegStatus": "Normal",
+    "mriStatus": "Unknown",
+    "diagnosisAgeMonths": 24,
+    "delays": [
+      "Cognitive"
+    ],
+    "adosScore": 19,
+    "adirScore": null
+  },
+  {
+    "caseId": "ASD-311",
+    "gender": "Female",
+    "pregnancyType": "IVF",
+    "plurality": "Twin",
+    "pregnancyEvolution": "Normal",
+    "languageLevel": "Delayed",
+    "eegStatus": "Normal",
+    "mriStatus": "Anomaly",
+    "diagnosisAgeMonths": 30,
+    "delays": [
+      "Global"
+    ],
+    "adosScore": 10,
+    "adirScore": null
+  },
+  {
+    "caseId": "ASD-312",
+    "gender": "Male",
+    "pregnancyType": "IVF",
+    "plurality": "Twin",
+    "pregnancyEvolution": "Normal",
+    "languageLevel": "Delayed",
+    "eegStatus": "Normal",
+    "mriStatus": "Anomaly",
+    "diagnosisAgeMonths": 30,
+    "delays": [
+      "Cognitive"
+    ],
+    "adosScore": 9,
+    "adirScore": null
+  },
+  {
+    "caseId": "ASD-313",
+    "gender": "Male",
+    "pregnancyType": "Natural",
+    "plurality": "Single",
+    "pregnancyEvolution": "Normal",
+    "languageLevel": "Delayed",
+    "eegStatus": "Normal",
+    "mriStatus": "Anomaly",
+    "diagnosisAgeMonths": 30,
+    "delays": [
+      "Cognitive"
+    ],
+    "adosScore": 13,
+    "adirScore": null
+  },
+  {
+    "caseId": "ASD-314",
+    "gender": "Female",
+    "pregnancyType": "Natural",
+    "plurality": "Single",
+    "pregnancyEvolution": "Normal",
+    "languageLevel": "Delayed",
+    "eegStatus": "Normal",
+    "mriStatus": "Anomaly",
+    "diagnosisAgeMonths": 36,
+    "delays": [],
+    "adosScore": 10,
+    "adirScore": null
+  },
+  {
+    "caseId": "ASD-315",
+    "gender": "Female",
+    "pregnancyType": "Natural",
+    "plurality": "Single",
+    "pregnancyEvolution": "Normal",
+    "languageLevel": "Delayed",
+    "eegStatus": "Unknown",
+    "mriStatus": "Unknown",
+    "diagnosisAgeMonths": 21,
+    "delays": [
+      "Global"
+    ],
+    "adosScore": 11,
+    "adirScore": null
+  }
+]

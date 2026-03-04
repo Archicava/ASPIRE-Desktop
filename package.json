@@ -1,0 +1,78 @@
+{
+  "name": "aspire-desktop",
+  "private": true,
+  "version": "0.1.0",
+  "description": "ASPIRE desktop app built with Electron + React + TypeScript",
+  "author": "Archicava",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Archicava/ASPIRE-Desktop.git"
+  },
+  "main": "dist-electron/main.js",
+  "scripts": {
+    "dev": "vite",
+    "build": "tsc --noEmit && vite build",
+    "dist": "npm run build && electron-builder",
+    "dist:mac": "npm run build && electron-builder --mac",
+    "dist:mac:signed": "bash ./scripts/dist-mac-signed.sh",
+    "dist:win": "npm run build && electron-builder --win",
+    "preview": "vite preview",
+    "lint": "tsc --noEmit",
+    "start": "electron ."
+  },
+  "dependencies": {
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1",
+    "react-router-dom": "^6.30.1"
+  },
+  "devDependencies": {
+    "@types/node": "^20.19.9",
+    "@types/react": "^18.3.23",
+    "@types/react-dom": "^18.3.7",
+    "@vitejs/plugin-react": "^4.7.0",
+    "electron": "^33.2.1",
+    "electron-builder": "^24.13.3",
+    "typescript": "^5.9.2",
+    "vite": "^5.4.19",
+    "vite-plugin-electron": "^0.29.0"
+  },
+  "build": {
+    "appId": "com.aspire.desktop",
+    "productName": "Aspire Lab",
+    "directories": {
+      "output": "release",
+      "buildResources": "img"
+    },
+    "files": [
+      "dist/**",
+      "dist-electron/**",
+      "package.json"
+    ],
+    "asar": true,
+    "mac": {
+      "category": "public.app-category.medical",
+      "notarize": {},
+      "target": [
+        "dmg",
+        "zip"
+      ],
+      "icon": "img/AspireIcon.icns"
+    },
+    "win": {
+      "target": [
+        {
+          "target": "nsis",
+          "arch": [
+            "x64"
+          ]
+        }
+      ],
+      "icon": "img/AspireIcon.ico"
+    },
+    "nsis": {
+      "oneClick": false,
+      "allowToChangeInstallationDirectory": true
+    }
+  }
+}

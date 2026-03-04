@@ -1,0 +1,73 @@
+name: Release
+
+on:
+  push:
+    tags:
+      - "v*"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    strategy:
+      fail-fast: false
+      matrix:
+        include:
+          - os: macos-latest
+            build_args: --mac dmg zip
+            artifact_glob: "release/*.dmg,release/*.zip,release/*.blockmap"
+          - os: windows-latest
+            build_args: --win nsis
+            artifact_glob: "release/*.exe,release/*.blockmap"
+    runs-on: ${{ matrix.os }}
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: 20
+          cache: npm
+
+      - name: Install dependencies
+        run: npm ci
+
+      - name: Build release artifacts
+        shell: bash
+        env:
+          # Build unsigned artifacts in CI unless signing credentials are configured.
+          CSC_IDENTITY_AUTO_DISCOVERY: "false"
+        run: npx electron-builder ${{ matrix.build_args }}
+
+      - name: Upload workflow artifacts
+        uses: actions/upload-artifact@v4
+        with:
+          name: release-${{ matrix.os }}
+          path: |
+            release/*
+          if-no-files-found: error
+
+  publish:
+    needs: build
+    runs-on: ubuntu-latest
+    steps:
+      - name: Download built artifacts
+        uses: actions/download-artifact@v4
+        with:
+          path: release-artifacts
+
+      - name: Flatten artifact tree
+        run: |
+          mkdir -p release-final
+          find release-artifacts -type f \( -name "*.dmg" -o -name "*.zip" -o -name "*.exe" -o -name "*.blockmap" \) -exec cp {} release-final/ \;
+          ls -la release-final
+
+      - name: Publish GitHub Release
+        uses: softprops/action-gh-release@v2
+        with:
+          files: release-final/*
+          generate_release_notes: true
