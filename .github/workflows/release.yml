@@ -18,7 +18,7 @@ jobs:
           - os: macos-latest
             build_args: --mac dmg zip
           - os: windows-latest
-            build_args: --win nsis
+            build_args: --win portable
     runs-on: ${{ matrix.os }}
 
     steps:
