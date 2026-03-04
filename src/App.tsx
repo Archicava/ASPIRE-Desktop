@@ -77,6 +77,15 @@ function AppShell() {
           ))}
         </nav>
 
+        <div className="sidebar-actions" aria-label="Case actions">
+          <button type="button" className="sidebar-action-btn">
+            Import cases
+          </button>
+          <button type="button" className="sidebar-action-btn">
+            Save cases locally
+          </button>
+        </div>
+
         <button
           type="button"
           className="logout-btn"
