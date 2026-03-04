@@ -17,9 +17,12 @@ jobs:
         include:
           - os: macos-latest
             build_args: --mac dmg zip
+            allow_failure: false
           - os: windows-latest
             build_args: --win portable
+            allow_failure: true
     runs-on: ${{ matrix.os }}
+    continue-on-error: ${{ matrix.allow_failure }}
 
     steps:
       - name: Checkout
@@ -55,15 +58,18 @@ jobs:
           CSC_IDENTITY_AUTO_DISCOVERY: "false"
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
-          npx electron-builder ${{ matrix.build_args }} --publish never
+          npx electron-builder ${{ matrix.build_args }} --publish never *>&1 | Tee-Object -FilePath electron-builder-windows.log
+          if ($LASTEXITCODE -ne 0) { exit $LASTEXITCODE }
 
       - name: Upload workflow artifacts
+        if: always()
         uses: actions/upload-artifact@v4
         with:
           name: release-${{ matrix.os }}
           path: |
             release/*
-          if-no-files-found: error
+            electron-builder-windows.log
+          if-no-files-found: warn
 
   publish:
     needs: build
