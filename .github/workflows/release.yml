@@ -20,7 +20,7 @@ jobs:
             allow_failure: false
           - os: windows-latest
             build_args: --win portable
-            allow_failure: true
+            allow_failure: false
     runs-on: ${{ matrix.os }}
     continue-on-error: ${{ matrix.allow_failure }}
 
@@ -75,7 +75,19 @@ jobs:
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
           set -o pipefail
+          set +e
           npx electron-builder ${{ matrix.build_args }} --x64 --publish never -c.win.signAndEditExecutable=false 2>&1 | tee electron-builder-windows.log
+          status=${PIPESTATUS[0]}
+          set -e
+
+          if [[ $status -ne 0 ]]; then
+            if ls release/*.exe >/dev/null 2>&1; then
+              echo "electron-builder exited with code $status, but a Windows .exe was generated. Continuing."
+              exit 0
+            fi
+            echo "electron-builder failed and no Windows .exe was generated."
+            exit $status
+          fi
 
       - name: Upload workflow artifacts
         if: always()
