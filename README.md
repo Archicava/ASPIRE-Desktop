@@ -107,6 +107,14 @@ npm run dist:mac:signed
 - CI workflow: `.github/workflows/ci.yml` (type-check + build on PR/push)
 - Release workflow: `.github/workflows/release.yml`
 
+For signed/notarized macOS releases from GitHub Actions, set repository secrets:
+
+- `CSC_LINK` (base64 or URL to your `Developer ID Application` `.p12`)
+- `CSC_KEY_PASSWORD`
+- `APPLE_ID`
+- `APPLE_APP_SPECIFIC_PASSWORD`
+- `APPLE_TEAM_ID`
+
 To publish a release:
 
 1. Bump `version` in `package.json`.
