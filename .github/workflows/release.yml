@@ -68,14 +68,14 @@ jobs:
 
       - name: Package release artifacts (Windows)
         if: startsWith(matrix.os, 'windows')
-        shell: pwsh
+        shell: bash
         env:
           # Build unsigned artifacts in CI unless signing credentials are configured.
           CSC_IDENTITY_AUTO_DISCOVERY: "false"
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
-          npx electron-builder ${{ matrix.build_args }} --publish never *>&1 | Tee-Object -FilePath electron-builder-windows.log
-          if ($LASTEXITCODE -ne 0) { exit $LASTEXITCODE }
+          set -o pipefail
+          npx electron-builder ${{ matrix.build_args }} --x64 --publish never -c.win.signAndEditExecutable=false 2>&1 | tee electron-builder-windows.log
 
       - name: Upload workflow artifacts
         if: always()
