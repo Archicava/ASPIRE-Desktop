@@ -1,7 +1,7 @@
 {
   "name": "aspire-desktop",
   "private": true,
-  "version": "0.1.14",
+  "version": "0.1.15",
   "description": "ASPIRE desktop app built with Electron + React + TypeScript",
   "author": "Archicava",
   "license": "MIT",
