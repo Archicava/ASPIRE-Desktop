@@ -53,6 +53,12 @@ npm install
 npm run dev
 ```
 
+To run without a dev server (local production build):
+
+```bash
+npm start
+```
+
 ## Build
 
 ```bash

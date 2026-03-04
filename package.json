@@ -1,7 +1,7 @@
 {
   "name": "aspire-desktop",
   "private": true,
-  "version": "0.1.15",
+  "version": "0.1.16",
   "description": "ASPIRE desktop app built with Electron + React + TypeScript",
   "author": "Archicava",
   "license": "MIT",
@@ -19,7 +19,8 @@
     "dist:win": "npm run build && electron-builder --win",
     "preview": "vite preview",
     "lint": "tsc --noEmit",
-    "start": "electron ."
+    "start": "npm run build && electron .",
+    "start:raw": "electron ."
   },
   "dependencies": {
     "react": "^18.3.1",

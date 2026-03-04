@@ -1,10 +1,11 @@
-import { app, BrowserWindow, ipcMain, shell } from 'electron';
+import { app, BrowserWindow, dialog, ipcMain, shell } from 'electron';
 import { existsSync } from 'node:fs';
 import path from 'node:path';
 import { fileURLToPath } from 'node:url';
 
 const __dirname = path.dirname(fileURLToPath(import.meta.url));
-const isDev = !app.isPackaged;
+const viteDevServerUrl = process.env.VITE_DEV_SERVER_URL;
+const isDev = !app.isPackaged && Boolean(viteDevServerUrl);
 const appId = 'com.aspire.desktop';
 const defaultWebAppUrl = 'https://aspire-lab.archicava.com';
 const webAppBaseUrl = resolveWebAppBaseUrl();
@@ -31,6 +32,17 @@ let sessionCookie: string | null = null;
 let sessionCookieName: string | null = null;
 
 function createWindow() {
+  const rendererHtmlPath = path.join(__dirname, '../dist/index.html');
+
+  if (!isDev && !existsSync(rendererHtmlPath)) {
+    dialog.showErrorBox(
+      'Aspire Lab cannot start',
+      'Renderer build not found. Run "npm run build" first or use "npm run dev" for development.'
+    );
+    app.quit();
+    return;
+  }
+
   const window = new BrowserWindow({
     width: 1480,
     height: 940,
@@ -60,10 +72,10 @@ function createWindow() {
     return { action: 'deny' };
   });
 
-  if (isDev) {
-    window.loadURL('http://localhost:5173');
+  if (isDev && viteDevServerUrl) {
+    window.loadURL(viteDevServerUrl);
   } else {
-    window.loadFile(path.join(__dirname, '../dist/index.html'));
+    window.loadFile(rendererHtmlPath);
   }
 }
 
