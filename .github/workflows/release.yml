@@ -17,10 +17,8 @@ jobs:
         include:
           - os: macos-latest
             build_args: --mac dmg zip
-            shell: bash
           - os: windows-latest
             build_args: --win nsis
-            shell: pwsh
     runs-on: ${{ matrix.os }}
 
     steps:
@@ -36,8 +34,20 @@ jobs:
       - name: Install dependencies
         run: npm ci
 
-      - name: Build release artifacts
-        shell: ${{ matrix.shell }}
+      - name: Build release artifacts (macOS)
+        if: startsWith(matrix.os, 'macos')
+        shell: bash
+        env:
+          # Build unsigned artifacts in CI unless signing credentials are configured.
+          CSC_IDENTITY_AUTO_DISCOVERY: "false"
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          npm run build
+          npx electron-builder ${{ matrix.build_args }} --publish never
+
+      - name: Build release artifacts (Windows)
+        if: startsWith(matrix.os, 'windows')
+        shell: pwsh
         env:
           # Build unsigned artifacts in CI unless signing credentials are configured.
           CSC_IDENTITY_AUTO_DISCOVERY: "false"
