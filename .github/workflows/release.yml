@@ -16,7 +16,7 @@ jobs:
       matrix:
         include:
           - os: macos-latest
-            build_args: --mac dmg zip
+            build_args: --mac dmg zip --arm64 --x64
             allow_failure: false
           - os: windows-latest
             build_args: --win portable

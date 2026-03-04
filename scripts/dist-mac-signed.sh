@@ -52,4 +52,4 @@ fi
 
 echo "Building signed macOS artifacts with electron-builder..."
 npm run build
-npx electron-builder --mac -c.mac.notarize.teamId="$APPLE_TEAM_ID"
+npx electron-builder --mac --arm64 --x64 -c.mac.notarize.teamId="$APPLE_TEAM_ID"

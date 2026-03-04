@@ -1,7 +1,7 @@
 {
   "name": "aspire-desktop",
   "private": true,
-  "version": "0.1.16",
+  "version": "0.1.17",
   "description": "ASPIRE desktop app built with Electron + React + TypeScript",
   "author": "Archicava",
   "license": "MIT",
@@ -14,7 +14,7 @@
     "dev": "vite",
     "build": "tsc --noEmit && vite build",
     "dist": "npm run build && electron-builder",
-    "dist:mac": "npm run build && electron-builder --mac",
+    "dist:mac": "npm run build && electron-builder --mac --arm64 --x64",
     "dist:mac:signed": "bash ./scripts/dist-mac-signed.sh",
     "dist:win": "npm run build && electron-builder --win",
     "preview": "vite preview",

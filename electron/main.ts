@@ -1,4 +1,4 @@
-import { app, BrowserWindow, dialog, ipcMain, shell } from 'electron';
+import { app, BrowserWindow, dialog, ipcMain, nativeImage, shell } from 'electron';
 import { existsSync } from 'node:fs';
 import path from 'node:path';
 import { fileURLToPath } from 'node:url';
@@ -73,9 +73,17 @@ function createWindow() {
   });
 
   if (isDev && viteDevServerUrl) {
-    window.loadURL(viteDevServerUrl);
+    void window.loadURL(viteDevServerUrl).catch((error: unknown) => {
+      const message = error instanceof Error ? error.message : 'Unknown renderer load error.';
+      dialog.showErrorBox('Aspire Lab cannot start', `Failed to load dev server URL.\n${message}`);
+      app.quit();
+    });
   } else {
-    window.loadFile(rendererHtmlPath);
+    void window.loadFile(rendererHtmlPath).catch((error: unknown) => {
+      const message = error instanceof Error ? error.message : 'Unknown renderer load error.';
+      dialog.showErrorBox('Aspire Lab cannot start', `Failed to load renderer build.\n${message}`);
+      app.quit();
+    });
   }
 }
 
@@ -100,7 +108,7 @@ function resolveAppIconPath(): string | undefined {
     process.platform === 'win32'
       ? ['AspireIcon.ico', 'AspireIcon.png']
       : process.platform === 'darwin'
-        ? ['AspireIcon.icns', 'AspireIcon.png']
+        ? ['AspireIcon.png', 'AspireIcon.icns']
         : ['AspireIcon.png', 'AspireIcon.ico'];
 
   const baseDirs = [
@@ -114,13 +122,21 @@ function resolveAppIconPath(): string | undefined {
   for (const baseDir of baseDirs) {
     for (const fileName of iconFileNames) {
       const candidate = path.join(baseDir, fileName);
-      if (existsSync(candidate)) {
+      if (existsSync(candidate) && isUsableIcon(candidate)) {
         return candidate;
       }
     }
   }
 
   return undefined;
+}
+
+function isUsableIcon(iconPath: string): boolean {
+  try {
+    return !nativeImage.createFromPath(iconPath).isEmpty();
+  } catch {
+    return false;
+  }
 }
 
 function getSetCookieHeaders(response: Response): string[] {
@@ -246,22 +262,31 @@ ipcMain.handle(
 
 ipcMain.handle('aspire-api:base-url', () => webAppBaseUrl);
 
-app.whenReady().then(() => {
-  app.setName('Aspire Lab');
-  app.setAppUserModelId(appId);
+app.whenReady()
+  .then(() => {
+    app.setName('Aspire Lab');
+    app.setAppUserModelId(appId);
 
-  if (process.platform === 'darwin' && app.dock && appIconPath) {
-    app.dock.setIcon(appIconPath);
-  }
-
-  createWindow();
-
-  app.on('activate', () => {
-    if (BrowserWindow.getAllWindows().length === 0) {
-      createWindow();
+    if (process.platform === 'darwin' && app.dock && appIconPath) {
+      try {
+        app.dock.setIcon(appIconPath);
+      } catch (error) {
+        console.warn('Failed to set dock icon:', error);
+      }
     }
+
+    createWindow();
+
+    app.on('activate', () => {
+      if (BrowserWindow.getAllWindows().length === 0) {
+        createWindow();
+      }
+    });
+  })
+  .catch((error) => {
+    console.error('Failed to initialize Aspire Lab:', error);
+    app.quit();
   });
-});
 
 app.on('window-all-closed', () => {
   if (process.platform !== 'darwin') {

@@ -76,6 +76,8 @@ npm run dist:mac
 npm run dist:win
 ```
 
+`dist:mac` builds both Apple Silicon (`arm64`) and Intel (`x64`) installers.
+
 Or build all configured targets:
 
 ```bash
